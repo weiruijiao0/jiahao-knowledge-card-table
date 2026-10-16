@@ -24,7 +24,7 @@ try{
   const browserText=async file=>page.evaluate(async file=>{const response=await fetch(file);return {status:response.status,text:await response.text()};},file);
   const docs=await browserText('./open-source.html');assert.equal(docs.status,200);assert.ok(docs.text.includes('source/jiahao-source.zip'));pass('开源页在匿名浏览器中可访问，游戏设置提供入口');
   const sourceResponse=await page.evaluate(async()=>{const response=await fetch('./source/jiahao-source.zip');const data=await response.arrayBuffer();const hash=await crypto.subtle.digest('SHA-256',data);return {status:response.status,bytes:data.byteLength,signature:String.fromCharCode(...new Uint8Array(data).subarray(0,2)),sha256:Array.from(new Uint8Array(hash),n=>n.toString(16).padStart(2,'0')).join('')};});assert.equal(sourceResponse.status,200);assert.equal(sourceResponse.signature,'PK');
-  const expected=crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'public/source/jiahao-source.zip'))).digest('hex');
+  const expected=crypto.createHash('sha256').update(fs.readFileSync(process.env.EXPECTED_SOURCE_ZIP||path.join(root,'public/source/jiahao-source.zip'))).digest('hex');
   report.sourceArchive={bytes:sourceResponse.bytes,sha256:sourceResponse.sha256};assert.equal(report.sourceArchive.sha256,expected);pass('公开源码ZIP完整下载，SHA-256与本地交付一致');
   for(const [file,needle] of [['./LICENSE.txt','MIT License'],['./THIRD-PARTY-NOTICES.txt','scheduler']]){const r=await browserText(file);assert.equal(r.status,200);assert.ok(r.text.includes(needle));}pass('原创程序和运行时依赖许可证均可访问');
   const sw=await browserText('./sw.js');assert.equal(sw.status,200);assert.ok(!sw.text.includes('source/jiahao-source.zip'));pass('可选源码下载未占用游戏首次离线预缓存');
