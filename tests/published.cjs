@@ -1,0 +1,44 @@
+const {chromium}=require('playwright');
+const fs=require('node:fs');
+const path=require('node:path');
+const crypto=require('node:crypto');
+const assert=require('node:assert/strict');
+const root=path.resolve(__dirname,'..');
+const base=process.env.TEST_URL;
+if(!base||!base.startsWith('https://'))throw new Error('Set TEST_URL to the deployed HTTPS URL.');
+const origin=new URL(base).origin,key='jiahao-knowledge-table:v1';
+const report={url:base,startedAt:new Date().toISOString(),environment:'Fresh Edge mobile context on development computer; no account, not a mainland mobile-network or physical iPhone test',checks:[],pageErrors:[],failedResponses:[],externalRequests:[],pending:['真实iPhone Safari','真实微信','中国大陆普通Wi-Fi和移动网络'],status:'running'};
+const pass=name=>{report.checks.push(name);console.log('PUBLIC PASS',name);};
+(async()=>{const browser=await chromium.launch({headless:true,executablePath:process.env.TEST_BROWSER_EXE||'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'});
+try{
+  const context=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
+  const page=await context.newPage();
+  page.on('pageerror',e=>report.pageErrors.push(e.message));
+  page.on('request',r=>{if(r.url().startsWith('https:')&&new URL(r.url()).origin!==origin)report.externalRequests.push(r.url());});
+  page.on('response',r=>{if(r.status()>=400)report.failedResponses.push({url:r.url(),status:r.status()});});
+  const response=await page.goto(base,{waitUntil:'networkidle',timeout:60000});
+  assert.equal(response.status(),200);await page.getByTestId('start').waitFor({timeout:30000});assert.equal(new URL(page.url()).origin,origin);pass('HTTPS 200，匿名首次访问直接进入游戏，无登录跳转');
+  await page.getByRole('button',{name:'设置',exact:true}).tap();
+  assert.equal(await page.getByRole('link',{name:'开源代码与许可'}).getAttribute('href'),'./open-source.html');
+  await page.getByRole('button',{name:'关闭弹窗'}).tap();
+  const browserText=async file=>page.evaluate(async file=>{const response=await fetch(file);return {status:response.status,text:await response.text()};},file);
+  const docs=await browserText('./open-source.html');assert.equal(docs.status,200);assert.ok(docs.text.includes('source/jiahao-source.zip'));pass('开源页在匿名浏览器中可访问，游戏设置提供入口');
+  const sourceResponse=await page.evaluate(async()=>{const response=await fetch('./source/jiahao-source.zip');const data=await response.arrayBuffer();const hash=await crypto.subtle.digest('SHA-256',data);return {status:response.status,bytes:data.byteLength,signature:String.fromCharCode(...new Uint8Array(data).subarray(0,2)),sha256:Array.from(new Uint8Array(hash),n=>n.toString(16).padStart(2,'0')).join('')};});assert.equal(sourceResponse.status,200);assert.equal(sourceResponse.signature,'PK');
+  const expected=crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'public/source/jiahao-source.zip'))).digest('hex');
+  report.sourceArchive={bytes:sourceResponse.bytes,sha256:sourceResponse.sha256};assert.equal(report.sourceArchive.sha256,expected);pass('公开源码ZIP完整下载，SHA-256与本地交付一致');
+  for(const [file,needle] of [['./LICENSE.txt','MIT License'],['./THIRD-PARTY-NOTICES.txt','scheduler']]){const r=await browserText(file);assert.equal(r.status,200);assert.ok(r.text.includes(needle));}pass('原创程序和运行时依赖许可证均可访问');
+  const sw=await browserText('./sw.js');assert.equal(sw.status,200);assert.ok(!sw.text.includes('source/jiahao-source.zip'));pass('可选源码下载未占用游戏首次离线预缓存');
+  await page.getByTestId('start').tap();await page.waitForFunction(k=>JSON.parse(localStorage.getItem(k)).active.phase==='choose',key);
+  assert.equal(await page.locator('.study-card,.study-zone,.answer-feedback').count(),0);pass('直接出题和发牌，作答前不显示答案');
+  const wrong=await page.evaluate(k=>{const s=JSON.parse(localStorage.getItem(k)).active;return s.tasks[s.index].options.find(o=>!o.correct).key;},key);
+  await page.locator(`[data-choice-key="${wrong}"]`).tap();await page.getByTestId('next').waitFor();
+  const before=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)),key);assert.equal(before.records.K001.latestCorrect,false);
+  await page.reload();await page.getByTestId('next').waitFor();const after=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)),key);assert.deepEqual(after,before);pass('线上答错可继续，刷新保留题面、错题和学习记录');
+  await page.evaluate(()=>navigator.serviceWorker.ready);await page.waitForFunction(()=>!!navigator.serviceWorker.controller);
+  await context.setOffline(true);await page.reload();await page.getByTestId('next').waitFor();pass('线上首次缓存后断网刷新，当前关卡恢复');await context.setOffline(false);
+  await page.screenshot({path:path.join(root,'test-results','published-390.png'),fullPage:true});
+  assert.equal(report.pageErrors.length,0);assert.equal(report.failedResponses.length,0);assert.equal(report.externalRequests.length,0);pass('未发现浏览器异常、失败资源或外站运行时请求');
+  report.status='passed';await context.close();
+}catch(error){report.status='failed';report.error=error.stack;console.error(error);process.exitCode=1;}
+finally{report.finishedAt=new Date().toISOString();fs.writeFileSync(path.join(root,'test-results','published-report.json'),JSON.stringify(report,null,2));await browser.close();console.log('PUBLIC REPORT',report.status);}
+})();

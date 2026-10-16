@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+playwright-report/
+.DS_Store
+.openai/
+.sites-runtime/
+.sites-checkout*/
+.env
+.env.*
+public/source/*.zip

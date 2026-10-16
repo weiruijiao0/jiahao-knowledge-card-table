@@ -1,0 +1,9730 @@
+[
+  {
+    "id": "K001",
+    "number": 1,
+    "title": "元谋人",
+    "original": "元谋人：已知中国境内最早的人类",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "元谋人",
+      "中国早期人类代表"
+    ],
+    "difficulty": 1,
+    "question": "关于元谋人，哪张牌的描述更准确？",
+    "answer": "中国早期人类代表",
+    "decoys": [
+      "明代文学家",
+      "古希腊文明",
+      "唐朝皇帝"
+    ],
+    "explanation": "元谋人是中国早期人类的重要代表；“最早”涉及发现、测年和分类口径，不作绝对排序题。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "明代文学家",
+      "古希腊文明",
+      "唐朝皇帝"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K002",
+    "number": 2,
+    "title": "北京人",
+    "original": "北京人：会使用和保存天然",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "北京人",
+      "使用并保存天然火"
+    ],
+    "difficulty": 1,
+    "question": "北京人用火的特点是？",
+    "answer": "使用并保存天然火",
+    "decoys": [
+      "已发明火药",
+      "已使用电灯",
+      "使用蒸汽机"
+    ],
+    "explanation": "北京人会使用并保存天然火。原文“天然”之后缺“火”字，学习牌已补足。",
+    "flags": [
+      "原文缺字"
+    ],
+    "confusions": [
+      "已发明火药",
+      "已使用电灯",
+      "使用蒸汽机"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K003",
+    "number": 3,
+    "title": "山顶洞人",
+    "original": "山顶洞人：人工取火",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "山顶洞人",
+      "人工取火"
+    ],
+    "difficulty": 1,
+    "question": "山顶洞人在用火方面的进步是？",
+    "answer": "人工取火",
+    "decoys": [
+      "发明指南针",
+      "发明电话",
+      "使用电灯"
+    ],
+    "explanation": "山顶洞人：人工取火",
+    "flags": [],
+    "confusions": [
+      "发明指南针",
+      "发明电话",
+      "使用电灯"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K004",
+    "number": 4,
+    "title": "夏朝",
+    "original": "夏朝：中国第一个奴隶制王朝",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "夏朝",
+      "夏朝"
+    ],
+    "difficulty": 1,
+    "question": "传统历史叙述中，中国第一个王朝是？",
+    "answer": "夏朝",
+    "decoys": [
+      "秦朝",
+      "汉朝",
+      "唐朝"
+    ],
+    "explanation": "夏朝在传统历史叙述中被视为中国第一个王朝。原文采用“奴隶制王朝”的教材分期表述。",
+    "flags": [
+      "教学口径"
+    ],
+    "confusions": [
+      "秦朝",
+      "汉朝",
+      "唐朝"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K005",
+    "number": 5,
+    "title": "《夏小正》",
+    "original": "《夏小正》：我国现在最早的一部记录传统农事的历书",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "《夏小正》",
+      "《夏小正》"
+    ],
+    "difficulty": 1,
+    "question": "哪部历书记录了传统农事？",
+    "answer": "《夏小正》",
+    "decoys": [
+      "《论语》",
+      "《神曲》",
+      "《茶馆》"
+    ],
+    "explanation": "《夏小正》是我国现存早期记录传统农事的历书。原文“现在”按“现存”理解，不考绝对最早。",
+    "flags": [
+      "原文疑字"
+    ],
+    "confusions": [
+      "《论语》",
+      "《神曲》",
+      "《茶馆》"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K006",
+    "number": 6,
+    "title": "首用年号的皇帝",
+    "original": "汉武帝：中国历史上第一个使用年号的皇帝",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "首用年号的皇帝",
+      "汉武帝"
+    ],
+    "difficulty": 1,
+    "question": "中国历史上，哪位皇帝首先使用年号？",
+    "answer": "汉武帝",
+    "decoys": [
+      "秦始皇",
+      "唐太宗",
+      "宋徽宗"
+    ],
+    "explanation": "汉武帝：中国历史上第一个使用年号的皇帝",
+    "flags": [],
+    "confusions": [
+      "秦始皇",
+      "唐太宗",
+      "宋徽宗"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K007",
+    "number": 7,
+    "title": "回族的形成",
+    "original": "元朝形成了一个新的民族--回族",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "回族的形成",
+      "元朝"
+    ],
+    "difficulty": 1,
+    "question": "资料中，与回族形成联系密切的朝代是？",
+    "answer": "元朝",
+    "decoys": [
+      "夏朝",
+      "商朝",
+      "秦朝"
+    ],
+    "explanation": "元朝形成了一个新的民族，回族",
+    "flags": [],
+    "confusions": [
+      "夏朝",
+      "商朝",
+      "秦朝"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K008",
+    "number": 8,
+    "title": "《汉谟拉比法典》",
+    "original": "《汉谟拉比法典》：世界上现存的第一部比较完备的成文法典",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "《汉谟拉比法典》",
+      "《汉谟拉比法典》"
+    ],
+    "difficulty": 1,
+    "question": "哪部是现存较早且较完整的成文法典？",
+    "answer": "《汉谟拉比法典》",
+    "decoys": [
+      "《诗经》",
+      "《茶经》",
+      "《论语》"
+    ],
+    "explanation": "《汉谟拉比法典》是现存较早、内容较完整的成文法典，不是最早出现的成文法律。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "《诗经》",
+      "《茶经》",
+      "《论语》"
+    ],
+    "firstLevel": 1,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K009",
+    "number": 9,
+    "title": "胡夫金字塔",
+    "original": "胡夫金字塔：世界上最大的金字",
+    "sourcePage": 1,
+    "chapter": "文明初见",
+    "keywords": [
+      "胡夫金字塔",
+      "胡夫金字塔"
+    ],
+    "difficulty": 1,
+    "question": "埃及著名的大金字塔是哪一座？",
+    "answer": "胡夫金字塔",
+    "decoys": [
+      "黄鹤楼",
+      "岳阳楼",
+      "滕王阁"
+    ],
+    "explanation": "胡夫金字塔是埃及著名的大金字塔。原文末尾“金字”缺“塔”，不泛化为所有口径的世界最大。",
+    "flags": [
+      "原文缺字"
+    ],
+    "confusions": [
+      "黄鹤楼",
+      "岳阳楼",
+      "滕王阁"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K010",
+    "number": 10,
+    "title": "《诗经》",
+    "original": "《诗经》：中国最早的一部诗歌总集",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《诗经》",
+      "《诗经》"
+    ],
+    "difficulty": 1,
+    "question": "中国最早的诗歌总集是？",
+    "answer": "《诗经》",
+    "decoys": [
+      "《离骚》",
+      "《论语》",
+      "《史记》"
+    ],
+    "explanation": "《诗经》：中国最早的一部诗歌总集",
+    "flags": [],
+    "confusions": [
+      "《离骚》",
+      "《论语》",
+      "《史记》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K011",
+    "number": 11,
+    "title": "《离骚》",
+    "original": "《离骚》：中国古代最长的（政治）抒情诗",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《离骚》",
+      "《离骚》"
+    ],
+    "difficulty": 1,
+    "question": "中国古代著名的长篇政治抒情诗是？",
+    "answer": "《离骚》",
+    "decoys": [
+      "《春秋》",
+      "《茶经》",
+      "《国语》"
+    ],
+    "explanation": "《离骚》：中国古代最长的（政治）抒情诗",
+    "flags": [],
+    "confusions": [
+      "《春秋》",
+      "《茶经》",
+      "《国语》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K012",
+    "number": 12,
+    "title": "《尚书》",
+    "original": "《尚书》（相传是孔子所编）：中国最古的官方史书",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《尚书》",
+      "《尚书》"
+    ],
+    "difficulty": 1,
+    "question": "哪部典籍汇编了古代历史文献？",
+    "answer": "《尚书》",
+    "decoys": [
+      "《神曲》",
+      "《十日谈》",
+      "《茶馆》"
+    ],
+    "explanation": "《尚书》是古代历史文献汇编；“孔子编”属传统说法，不作为确证史实考查。",
+    "flags": [
+      "存疑标注"
+    ],
+    "confusions": [
+      "《神曲》",
+      "《十日谈》",
+      "《茶馆》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K013",
+    "number": 13,
+    "title": "《周易》",
+    "original": "《周易》：中国最古的一部占卜用书，最早提出“地理”一词",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《周易》",
+      "《周易》"
+    ],
+    "difficulty": 1,
+    "question": "“地理”一词早见于哪部典籍的传文？",
+    "answer": "《周易》",
+    "decoys": [
+      "《家》",
+      "《子夜》",
+      "《茶馆》"
+    ],
+    "explanation": "“地理”一词早见于《周易·系辞》：“仰以观于天文，俯以察于地理。”注意传文与经文之别。",
+    "flags": [
+      "表述细化"
+    ],
+    "confusions": [
+      "《家》",
+      "《子夜》",
+      "《茶馆》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K014",
+    "number": 14,
+    "title": "《论语》",
+    "original": "《论语》：中国最早的语录体著作",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《论语》",
+      "《论语》"
+    ],
+    "difficulty": 1,
+    "question": "哪部作品以语录体记录孔子及弟子言行？",
+    "answer": "《论语》",
+    "decoys": [
+      "《史记》",
+      "《汉书》",
+      "《春秋》"
+    ],
+    "explanation": "《论语》：中国最早的语录体著作",
+    "flags": [],
+    "confusions": [
+      "《史记》",
+      "《汉书》",
+      "《春秋》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K015",
+    "number": 15,
+    "title": "《孔雀东南飞》",
+    "original": "《孔雀东南飞》：最早的叙事诗",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《孔雀东南飞》",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "question": "哪部是中国古代著名的长篇叙事诗？",
+    "answer": "《孔雀东南飞》",
+    "decoys": [
+      "《离骚》",
+      "《周易》",
+      "《尚书》"
+    ],
+    "explanation": "《孔雀东南飞》是中国古代著名的长篇叙事诗，不能笼统说成最早的叙事诗。它与《木兰诗》并称乐府双璧。",
+    "flags": [
+      "原文纠偏"
+    ],
+    "confusions": [
+      "《离骚》",
+      "《周易》",
+      "《尚书》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K016",
+    "number": 16,
+    "title": "乐府双璧",
+    "original": "乐府双璧：《木兰诗》《孔雀东南飞》",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "乐府双璧",
+      "《孔雀东南飞》"
+    ],
+    "difficulty": 1,
+    "question": "与《木兰诗》并称“乐府双璧”的是？",
+    "answer": "《孔雀东南飞》",
+    "decoys": [
+      "《离骚》",
+      "《将进酒》",
+      "《春晓》"
+    ],
+    "explanation": "乐府双璧：《木兰诗》《孔雀东南飞》",
+    "flags": [],
+    "confusions": [
+      "《离骚》",
+      "《将进酒》",
+      "《春晓》"
+    ],
+    "firstLevel": 2,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《木兰诗》",
+      "《孔雀东南飞》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《离骚》",
+      "《春晓》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K017",
+    "number": 17,
+    "title": "《说文解字》",
+    "original": "《说文解字》（东汉许慎编）：最早的字典",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《说文解字》",
+      "许慎"
+    ],
+    "difficulty": 1,
+    "question": "《说文解字》的编纂者是？",
+    "answer": "许慎",
+    "decoys": [
+      "司马迁",
+      "班固",
+      "沈括"
+    ],
+    "explanation": "东汉许慎编纂《说文解字》，系统分析汉字字形并解释字义；避免不加限定地称“最早的字典”。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "司马迁",
+      "班固",
+      "沈括"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K018",
+    "number": 18,
+    "title": "农业手工业百科",
+    "original": "《天工开物》（明末应星著）：世界上第一部关于农业和手工业生产的综合性著作",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "农业手工业百科",
+      "《天工开物》"
+    ],
+    "difficulty": 1,
+    "question": "宋应星的农业、手工业综合著作是？",
+    "answer": "《天工开物》",
+    "decoys": [
+      "《梦溪笔谈》",
+      "《茶经》",
+      "《伤寒杂病论》"
+    ],
+    "explanation": "明代宋应星撰《天工开物》，系统记述农业与手工业生产技术。原文“应星”补全为“宋应星”，不考世界第一。",
+    "flags": [
+      "原文缺名"
+    ],
+    "confusions": [
+      "《梦溪笔谈》",
+      "《茶经》",
+      "《伤寒杂病论》"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K019",
+    "number": 19,
+    "title": "《徐霞客游记》",
+    "original": "《徐霞客游记》：世界上最早介绍喀斯特地貌的著作",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《徐霞客游记》",
+      "《徐霞客游记》"
+    ],
+    "difficulty": 1,
+    "question": "哪部著作详细记载了喀斯特地貌？",
+    "answer": "《徐霞客游记》",
+    "decoys": [
+      "《论语》",
+      "《诗经》",
+      "《茶馆》"
+    ],
+    "explanation": "《徐霞客游记》对喀斯特地貌有详尽记载，学习其地理价值，不考绝对“世界最早”。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "《论语》",
+      "《诗经》",
+      "《茶馆》"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K020",
+    "number": 20,
+    "title": "《四库全书》",
+    "original": "《四库全书》：我国最大的一部丛书",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《四库全书》",
+      "《四库全书》"
+    ],
+    "difficulty": 1,
+    "question": "我国古代规模最大的丛书是？",
+    "answer": "《四库全书》",
+    "decoys": [
+      "《康熙字典》",
+      "《说文解字》",
+      "《春秋》"
+    ],
+    "explanation": "《四库全书》：我国最大的一部丛书",
+    "flags": [],
+    "confusions": [
+      "《康熙字典》",
+      "《说文解字》",
+      "《春秋》"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K021",
+    "number": 21,
+    "title": "《永乐大典》",
+    "original": "《永乐大典》：世界上有史以来最大的百科全书",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《永乐大典》",
+      "《永乐大典》"
+    ],
+    "difficulty": 1,
+    "question": "哪部是明代编纂的大型类书？",
+    "answer": "《永乐大典》",
+    "decoys": [
+      "《四库全书》",
+      "《康熙字典》",
+      "《论语》"
+    ],
+    "explanation": "《永乐大典》是明代编纂、规模宏大的类书。类书不能直接等同现代百科全书，不考“有史以来最大”。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "《四库全书》",
+      "《康熙字典》",
+      "《论语》"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K022",
+    "number": 22,
+    "title": "《古今图书集成》",
+    "original": "《古今图书集成》：我国现存规模最大、资料最丰富的类书",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《古今图书集成》",
+      "《古今图书集成》"
+    ],
+    "difficulty": 1,
+    "question": "我国现存规模宏大的完整类书是？",
+    "answer": "《古今图书集成》",
+    "decoys": [
+      "《将进酒》",
+      "《离骚》",
+      "《兰亭序》"
+    ],
+    "explanation": "《古今图书集成》：我国现存规模最大、资料最丰富的类书",
+    "flags": [],
+    "confusions": [
+      "《将进酒》",
+      "《离骚》",
+      "《兰亭序》"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K023",
+    "number": 23,
+    "title": "晚清谴责小说",
+    "original": "晚清四大谴责小说：李宝嘉的《官场现形记》、吴沃尧（吴研人）的《二十年目睹之怪现状》、刘鹗的《老残游记》、曾朴的《孽海花》",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "晚清谴责小说",
+      "刘鹗"
+    ],
+    "difficulty": 1,
+    "question": "《老残游记》的作者是？",
+    "answer": "刘鹗",
+    "decoys": [
+      "李宝嘉",
+      "曾朴",
+      "吴沃尧"
+    ],
+    "explanation": "李宝嘉《官场现形记》、吴沃尧（字趼人）《二十年目睹之怪现状》、刘鹗《老残游记》、曾朴《孽海花》。原文“吴研人”按“吴趼人”校正。",
+    "flags": [
+      "原文疑字"
+    ],
+    "confusions": [
+      "李宝嘉",
+      "曾朴",
+      "吴沃尧"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K024",
+    "number": 24,
+    "title": "山水诗派",
+    "original": "谢灵运：最早开创山水诗派的诗人",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "山水诗派",
+      "谢灵运"
+    ],
+    "difficulty": 1,
+    "question": "开创山水诗派的代表诗人是？",
+    "answer": "谢灵运",
+    "decoys": [
+      "曹丕",
+      "苏洵",
+      "班固"
+    ],
+    "explanation": "谢灵运：最早开创山水诗派的诗人",
+    "flags": [],
+    "confusions": [
+      "曹丕",
+      "苏洵",
+      "班固"
+    ],
+    "firstLevel": 3,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K025",
+    "number": 25,
+    "title": "《康熙字典》",
+    "original": "《康熙字典》：收字最多的字典",
+    "sourcePage": 1,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《康熙字典》",
+      "《康熙字典》"
+    ],
+    "difficulty": 1,
+    "question": "清代官修、以“字典”命名的大型字书是？",
+    "answer": "《康熙字典》",
+    "decoys": [
+      "《永乐大典》",
+      "《诗经》",
+      "《国语》"
+    ],
+    "explanation": "《康熙字典》是清代官修大型字书，收字四万七千余；不能称为截至今日收字最多的字典。",
+    "flags": [
+      "原文纠偏"
+    ],
+    "confusions": [
+      "《永乐大典》",
+      "《诗经》",
+      "《国语》"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K026",
+    "number": 26,
+    "title": "《源氏物语》",
+    "original": "《源氏物语》（日本，紫式部）：世界上第一篇长篇小说",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "《源氏物语》",
+      "紫式部"
+    ],
+    "difficulty": 1,
+    "question": "《源氏物语》的作者是？",
+    "answer": "紫式部",
+    "decoys": [
+      "莎士比亚",
+      "薄伽丘",
+      "但丁"
+    ],
+    "explanation": "日本紫式部的《源氏物语》是世界文学史上重要的早期长篇小说；避免无条件断言“第一篇”。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "莎士比亚",
+      "薄伽丘",
+      "但丁"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K027",
+    "number": 27,
+    "title": "四大民间传说",
+    "original": "四大民间传说：《牛郎织女》《孟姜女》《梁山伯与祝英台》《白蛇传》",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "四大民间传说",
+      "《白蛇传》"
+    ],
+    "difficulty": 3,
+    "question": "哪一项属于中国四大民间传说？",
+    "answer": "《白蛇传》",
+    "decoys": [
+      "《西游记》",
+      "《水浒传》",
+      "《三国演义》"
+    ],
+    "explanation": "四大民间传说：《牛郎织女》《孟姜女》《梁山伯与祝英台》《白蛇传》",
+    "flags": [],
+    "confusions": [
+      "《西游记》",
+      "《水浒传》",
+      "《三国演义》"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《牛郎织女》",
+      "《孟姜女》",
+      "《梁山伯与祝英台》",
+      "《白蛇传》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《西游记》",
+      "《水浒传》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K028",
+    "number": 28,
+    "title": "三吏",
+    "original": "三吏：《新安吏》《石壕吏》《潼关吏》",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "三吏",
+      "《石壕吏》"
+    ],
+    "difficulty": 1,
+    "question": "哪一项属于杜甫的“三吏”？",
+    "answer": "《石壕吏》",
+    "decoys": [
+      "《新婚别》",
+      "《无家别》",
+      "《垂老别》"
+    ],
+    "explanation": "三吏：《新安吏》《石壕吏》《潼关吏》",
+    "flags": [],
+    "confusions": [
+      "《新婚别》",
+      "《无家别》",
+      "《垂老别》"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《新安吏》",
+      "《石壕吏》",
+      "《潼关吏》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《新婚别》",
+      "《无家别》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K029",
+    "number": 29,
+    "title": "三别",
+    "original": "三别：《新婚别》《垂老别》《无家别》",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "三别",
+      "《新婚别》"
+    ],
+    "difficulty": 1,
+    "question": "哪一项属于杜甫的“三别”？",
+    "answer": "《新婚别》",
+    "decoys": [
+      "《石壕吏》",
+      "《新安吏》",
+      "《潼关吏》"
+    ],
+    "explanation": "三别：《新婚别》《垂老别》《无家别》",
+    "flags": [],
+    "confusions": [
+      "《石壕吏》",
+      "《新安吏》",
+      "《潼关吏》"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《新婚别》",
+      "《垂老别》",
+      "《无家别》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《新安吏》",
+      "《石壕吏》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K030",
+    "number": 30,
+    "title": "三曹",
+    "original": "三曹：曹操、曹植、曹丕",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "三曹",
+      "曹植"
+    ],
+    "difficulty": 1,
+    "question": "谁属于“三曹”？",
+    "answer": "曹植",
+    "decoys": [
+      "苏轼",
+      "王勃",
+      "李贺"
+    ],
+    "explanation": "三曹：曹操、曹植、曹丕",
+    "flags": [],
+    "confusions": [
+      "苏轼",
+      "王勃",
+      "李贺"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "曹操",
+      "曹植",
+      "曹丕"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "苏轼",
+      "李白"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K031",
+    "number": 31,
+    "title": "三苏",
+    "original": "三苏：苏轼、苏洵、苏辙",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "三苏",
+      "苏洵"
+    ],
+    "difficulty": 1,
+    "question": "谁属于“三苏”？",
+    "answer": "苏洵",
+    "decoys": [
+      "曹丕",
+      "韩愈",
+      "王安石"
+    ],
+    "explanation": "三苏：苏轼、苏洵、苏辙",
+    "flags": [],
+    "confusions": [
+      "曹丕",
+      "韩愈",
+      "王安石"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "苏洵",
+      "苏轼",
+      "苏辙"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "曹操",
+      "王勃"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K032",
+    "number": 32,
+    "title": "初唐四杰",
+    "original": "初唐四杰：王勃、杨炯、卢照邻、骆宾王",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "初唐四杰",
+      "骆宾王"
+    ],
+    "difficulty": 3,
+    "question": "谁属于“初唐四杰”？",
+    "answer": "骆宾王",
+    "decoys": [
+      "杜甫",
+      "白居易",
+      "刘禹锡"
+    ],
+    "explanation": "初唐四杰：王勃、杨炯、卢照邻、骆宾王",
+    "flags": [],
+    "confusions": [
+      "杜甫",
+      "白居易",
+      "刘禹锡"
+    ],
+    "firstLevel": 4,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "王勃",
+      "杨炯",
+      "卢照邻",
+      "骆宾王"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "杜甫",
+      "白居易"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K033",
+    "number": 33,
+    "title": "元曲四大家",
+    "original": "元曲四大家：关汉卿、马致远、白朴、郑光祖",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "元曲四大家",
+      "马致远"
+    ],
+    "difficulty": 3,
+    "question": "谁属于“元曲四大家”？",
+    "answer": "马致远",
+    "decoys": [
+      "司马相如",
+      "王羲之",
+      "苏洵"
+    ],
+    "explanation": "元曲四大家：关汉卿、马致远、白朴、郑光祖",
+    "flags": [],
+    "confusions": [
+      "司马相如",
+      "王羲之",
+      "苏洵"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "关汉卿",
+      "马致远",
+      "白朴",
+      "郑光祖"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "司马相如",
+      "王羲之"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K034",
+    "number": 34,
+    "title": "汉赋四大家",
+    "original": "汉赋四大家：司马相如、扬雄、班固、张衡",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "汉赋四大家",
+      "司马相如"
+    ],
+    "difficulty": 3,
+    "question": "谁属于“汉赋四大家”？",
+    "answer": "司马相如",
+    "decoys": [
+      "李白",
+      "关汉卿",
+      "孟郊"
+    ],
+    "explanation": "汉赋四大家：司马相如、扬雄、班固、张衡",
+    "flags": [],
+    "confusions": [
+      "李白",
+      "关汉卿",
+      "孟郊"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "司马相如",
+      "扬雄",
+      "班固",
+      "张衡"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "李白",
+      "关汉卿"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K035",
+    "number": 35,
+    "title": "北宋书法四家",
+    "original": "北宋四大书法家：苏轼、黄庭坚、米芾、蔡襄",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "北宋书法四家",
+      "黄庭坚"
+    ],
+    "difficulty": 3,
+    "question": "谁属于北宋书法四家？",
+    "answer": "黄庭坚",
+    "decoys": [
+      "柳公权",
+      "王羲之",
+      "颜真卿"
+    ],
+    "explanation": "北宋四大书法家：苏轼、黄庭坚、米芾、蔡襄",
+    "flags": [],
+    "confusions": [
+      "柳公权",
+      "王羲之",
+      "颜真卿"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "苏轼",
+      "黄庭坚",
+      "米芾",
+      "蔡襄"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "王羲之",
+      "柳公权"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K036",
+    "number": 36,
+    "title": "楷书四大家",
+    "original": "楷书四大家：颜真卿、柳公权、欧阳询、赵孟頫",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "楷书四大家",
+      "柳公权"
+    ],
+    "difficulty": 3,
+    "question": "谁属于“楷书四大家”？",
+    "answer": "柳公权",
+    "decoys": [
+      "苏洵",
+      "贾岛",
+      "孟浩然"
+    ],
+    "explanation": "楷书四大家：颜真卿、柳公权、欧阳询、赵孟頫",
+    "flags": [],
+    "confusions": [
+      "苏洵",
+      "贾岛",
+      "孟浩然"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "欧阳询",
+      "颜真卿",
+      "柳公权",
+      "赵孟頫"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "苏轼",
+      "王羲之"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K037",
+    "number": 37,
+    "title": "唐宋八大家",
+    "original": "唐宋八大家：韩愈、柳宗元、欧阳修、王安石、曾巩、苏轼、苏洵、苏辙",
+    "sourcePage": 2,
+    "chapter": "典籍与文坛",
+    "keywords": [
+      "唐宋八大家",
+      "柳宗元"
+    ],
+    "difficulty": 1,
+    "question": "谁属于“唐宋八大家”？",
+    "answer": "柳宗元",
+    "decoys": [
+      "李白",
+      "杜甫",
+      "白居易"
+    ],
+    "explanation": "唐宋八大家：韩愈、柳宗元、欧阳修、王安石、曾巩、苏轼、苏洵、苏辙",
+    "flags": [],
+    "confusions": [
+      "李白",
+      "杜甫",
+      "白居易"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K038",
+    "number": 38,
+    "title": "赤子",
+    "original": "赤子：出生的婴儿（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "赤子",
+      "初生的婴儿"
+    ],
+    "difficulty": 1,
+    "question": "“赤子”在古语中可指？",
+    "answer": "初生的婴儿",
+    "decoys": [
+      "二十岁男子",
+      "三十岁男子",
+      "百岁老人"
+    ],
+    "explanation": "赤子：出生的婴儿（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "二十岁男子",
+      "三十岁男子",
+      "百岁老人"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K039",
+    "number": 39,
+    "title": "襁褓",
+    "original": "襁褓：不满周岁的婴儿（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "襁褓",
+      "未满周岁的婴儿"
+    ],
+    "difficulty": 1,
+    "question": "“襁褓”常借指哪个年龄阶段？",
+    "answer": "未满周岁的婴儿",
+    "decoys": [
+      "十五岁女子",
+      "二十岁男子",
+      "百岁老人"
+    ],
+    "explanation": "襁褓：不满周岁的婴儿（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "十五岁女子",
+      "二十岁男子",
+      "百岁老人"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K040",
+    "number": 40,
+    "title": "孩提",
+    "original": "孩提：两三岁（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "孩提",
+      "两三岁"
+    ],
+    "difficulty": 1,
+    "question": "“孩提”常指多大的幼儿？",
+    "answer": "两三岁",
+    "decoys": [
+      "十三四岁",
+      "二十岁",
+      "三十岁"
+    ],
+    "explanation": "孩提：两三岁（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "十三四岁",
+      "二十岁",
+      "三十岁"
+    ],
+    "firstLevel": 5,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K041",
+    "number": 41,
+    "title": "豆蔻年华",
+    "original": "豆蔻年华：十三四岁（女）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "豆蔻年华",
+      "十三四岁"
+    ],
+    "difficulty": 1,
+    "question": "“豆蔻年华”常指女子？",
+    "answer": "十三四岁",
+    "decoys": [
+      "二十岁",
+      "二十四岁",
+      "三十岁"
+    ],
+    "explanation": "豆蔻年华：十三四岁（女）（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "二十岁",
+      "二十四岁",
+      "三十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K042",
+    "number": 42,
+    "title": "舞勺之年",
+    "original": "舞勺之年：十三岁至十五岁（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "舞勺之年",
+      "十三至十五岁"
+    ],
+    "difficulty": 1,
+    "question": "“舞勺之年”通常指少年哪个阶段？",
+    "answer": "十三至十五岁",
+    "decoys": [
+      "两三岁",
+      "二十至二十四岁",
+      "九十岁"
+    ],
+    "explanation": "舞勺通常指十三至十五岁的少年，古语称谓以传统用法理解，不与现代年龄制度等同。",
+    "flags": [
+      "传统用法"
+    ],
+    "confusions": [
+      "两三岁",
+      "二十至二十四岁",
+      "九十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K043",
+    "number": 43,
+    "title": "及笄",
+    "original": "及笄、笄年：15岁（女）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "及笄",
+      "十五岁"
+    ],
+    "difficulty": 1,
+    "question": "古代女子“及笄”通常指？",
+    "answer": "十五岁",
+    "decoys": [
+      "十岁",
+      "二十岁",
+      "三十岁"
+    ],
+    "explanation": "及笄、笄年：15岁（女）（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "十岁",
+      "二十岁",
+      "三十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K044",
+    "number": 44,
+    "title": "弱冠",
+    "original": "弱冠：20岁（男）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "弱冠",
+      "二十岁"
+    ],
+    "difficulty": 1,
+    "question": "“弱冠”通常指男子？",
+    "answer": "二十岁",
+    "decoys": [
+      "十五岁",
+      "三十岁",
+      "四十岁"
+    ],
+    "explanation": "弱冠：20岁（男）（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "十五岁",
+      "三十岁",
+      "四十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K045",
+    "number": 45,
+    "title": "桃李年华",
+    "original": "桃李年华：20岁（女）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "桃李年华",
+      "二十岁"
+    ],
+    "difficulty": 1,
+    "question": "资料中“桃李年华”对应女子？",
+    "answer": "二十岁",
+    "decoys": [
+      "十五岁",
+      "二十四岁",
+      "三十岁"
+    ],
+    "explanation": "桃李年华：20岁（女）（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "十五岁",
+      "二十四岁",
+      "三十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K046",
+    "number": 46,
+    "title": "花信年华",
+    "original": "花信年华：24岁（女）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "花信年华",
+      "二十四岁"
+    ],
+    "difficulty": 1,
+    "question": "“花信年华”通常对应女子？",
+    "answer": "二十四岁",
+    "decoys": [
+      "十三岁",
+      "十五岁",
+      "二十岁"
+    ],
+    "explanation": "花信年华：24岁（女）（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "十三岁",
+      "十五岁",
+      "二十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K047",
+    "number": 47,
+    "title": "而立之年",
+    "original": "而立之年：30岁（男）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "而立之年",
+      "三十岁"
+    ],
+    "difficulty": 1,
+    "question": "“而立之年”指？",
+    "answer": "三十岁",
+    "decoys": [
+      "二十岁",
+      "四十岁",
+      "五十岁"
+    ],
+    "explanation": "而立之年指三十岁，出自“三十而立”；无需将现代用法严格限定为男性。",
+    "flags": [
+      "表述细化"
+    ],
+    "confusions": [
+      "二十岁",
+      "四十岁",
+      "五十岁"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K048",
+    "number": 48,
+    "title": "半老徐娘",
+    "original": "半老徐娘：30岁（女）（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "半老徐娘",
+      "旧时形容中年妇女的说法"
+    ],
+    "difficulty": 1,
+    "question": "“半老徐娘”应怎样理解？",
+    "answer": "旧时形容中年妇女的说法",
+    "decoys": [
+      "严格指三十岁",
+      "周岁的婴儿",
+      "百岁的老人"
+    ],
+    "explanation": "半老徐娘是旧时形容中年妇女的说法，不是严格的三十岁年龄称谓。仅用于理解古文，不用来称呼现实中的人。",
+    "flags": [
+      "原文纠偏"
+    ],
+    "confusions": [
+      "严格指三十岁",
+      "周岁的婴儿",
+      "百岁的老人"
+    ],
+    "firstLevel": 6,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K049",
+    "number": 49,
+    "title": "鲐背",
+    "original": "鲐背：90岁（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "鲐背",
+      "九十岁高龄"
+    ],
+    "difficulty": 1,
+    "question": "“鲐背”通常借指？",
+    "answer": "九十岁高龄",
+    "decoys": [
+      "二十岁",
+      "三十岁",
+      "十五岁"
+    ],
+    "explanation": "鲐背：90岁（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "二十岁",
+      "三十岁",
+      "十五岁"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K050",
+    "number": 50,
+    "title": "期颐",
+    "original": "期颐：100岁（古语称谓）",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "期颐",
+      "一百岁"
+    ],
+    "difficulty": 1,
+    "question": "“期颐”通常指？",
+    "answer": "一百岁",
+    "decoys": [
+      "五十岁",
+      "六十岁",
+      "八十岁"
+    ],
+    "explanation": "期颐：100岁（古语称谓）",
+    "flags": [],
+    "confusions": [
+      "五十岁",
+      "六十岁",
+      "八十岁"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K051",
+    "number": 51,
+    "title": "弄璋之喜",
+    "original": "弄璋之喜：庆祝对方生男孩",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "弄璋之喜",
+      "生男孩"
+    ],
+    "difficulty": 1,
+    "question": "“弄璋之喜”是古时庆贺？",
+    "answer": "生男孩",
+    "decoys": [
+      "生女孩",
+      "结婚",
+      "乔迁"
+    ],
+    "explanation": "弄璋之喜是古代贺人生男孩的说法；这是古语释义，不代表现代性别价值判断。",
+    "flags": [
+      "古语语境"
+    ],
+    "confusions": [
+      "生女孩",
+      "结婚",
+      "乔迁"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K052",
+    "number": 52,
+    "title": "弄瓦之喜",
+    "original": "弄瓦之喜：庆祝对方生女孩",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "弄瓦之喜",
+      "生女孩"
+    ],
+    "difficulty": 1,
+    "question": "“弄瓦之喜”是古时庆贺？",
+    "answer": "生女孩",
+    "decoys": [
+      "生男孩",
+      "升官",
+      "寿辰"
+    ],
+    "explanation": "弄瓦之喜是古代贺人生女孩的说法；这是古语释义，男孩女孩同样值得祝福。",
+    "flags": [
+      "古语语境"
+    ],
+    "confusions": [
+      "生男孩",
+      "升官",
+      "寿辰"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K053",
+    "number": 53,
+    "title": "令尊、令堂",
+    "original": "令尊、令堂：对方父母",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "令尊、令堂",
+      "对方的父母"
+    ],
+    "difficulty": 1,
+    "question": "“令尊”“令堂”敬称谁？",
+    "answer": "对方的父母",
+    "decoys": [
+      "自己的父母",
+      "对方的子女",
+      "自己的兄妹"
+    ],
+    "explanation": "令尊、令堂：对方父母",
+    "flags": [],
+    "confusions": [
+      "自己的父母",
+      "对方的子女",
+      "自己的兄妹"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K054",
+    "number": 54,
+    "title": "令兄、令妹",
+    "original": "令兄、令妹：对方的兄妹",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "令兄、令妹",
+      "对方的兄妹"
+    ],
+    "difficulty": 1,
+    "question": "“令兄”“令妹”是对谁的敬称？",
+    "answer": "对方的兄妹",
+    "decoys": [
+      "自己的兄妹",
+      "自己的子女",
+      "对方的父母"
+    ],
+    "explanation": "令兄、令妹：对方的兄妹",
+    "flags": [],
+    "confusions": [
+      "自己的兄妹",
+      "自己的子女",
+      "对方的父母"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K055",
+    "number": 55,
+    "title": "令郎、令爱",
+    "original": "令郎、令爱：对方的儿女",
+    "sourcePage": 2,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "令郎、令爱",
+      "对方的子女"
+    ],
+    "difficulty": 1,
+    "question": "“令郎”“令爱”敬称谁？",
+    "answer": "对方的子女",
+    "decoys": [
+      "自己的子女",
+      "对方的父母",
+      "自己的妻子"
+    ],
+    "explanation": "令郎、令爱：对方的儿女",
+    "flags": [],
+    "confusions": [
+      "自己的子女",
+      "对方的父母",
+      "自己的妻子"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K056",
+    "number": 56,
+    "title": "令正",
+    "original": "令正：对方的妻子",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "令正",
+      "对方的妻子"
+    ],
+    "difficulty": 1,
+    "question": "“令正”是对谁的敬称？",
+    "answer": "对方的妻子",
+    "decoys": [
+      "自己的妻子",
+      "对方的父亲",
+      "自己的母亲"
+    ],
+    "explanation": "令正：对方的妻子",
+    "flags": [],
+    "confusions": [
+      "自己的妻子",
+      "对方的父亲",
+      "自己的母亲"
+    ],
+    "firstLevel": 7,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K057",
+    "number": 57,
+    "title": "家父、家母",
+    "original": "家父家母：称呼自己的父母",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "家父、家母",
+      "自己的父母"
+    ],
+    "difficulty": 1,
+    "question": "“家父”“家母”是称呼？",
+    "answer": "自己的父母",
+    "decoys": [
+      "对方的父母",
+      "自己的子女",
+      "对方的兄妹"
+    ],
+    "explanation": "家父家母：称呼自己的父母",
+    "flags": [],
+    "confusions": [
+      "对方的父母",
+      "自己的子女",
+      "对方的兄妹"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K058",
+    "number": 58,
+    "title": "舍弟、舍妹",
+    "original": "舍弟、舍妹：称自己的兄妹",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "舍弟、舍妹",
+      "自己的弟妹"
+    ],
+    "difficulty": 1,
+    "question": "“舍弟”“舍妹”用来称呼？",
+    "answer": "自己的弟妹",
+    "decoys": [
+      "对方的弟妹",
+      "自己的父母",
+      "对方的子女"
+    ],
+    "explanation": "舍弟、舍妹是对自己弟弟、妹妹的谦称。原文统称“兄妹”不够准确。",
+    "flags": [
+      "表述纠正"
+    ],
+    "confusions": [
+      "对方的弟妹",
+      "自己的父母",
+      "对方的子女"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K059",
+    "number": 59,
+    "title": "拙荆、贱内",
+    "original": "拙荆、贱内：称自己的妻子",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "拙荆、贱内",
+      "自己的妻子"
+    ],
+    "difficulty": 1,
+    "question": "“拙荆”“贱内”是旧时对谁的谦称？",
+    "answer": "自己的妻子",
+    "decoys": [
+      "对方的妻子",
+      "自己的母亲",
+      "对方的女儿"
+    ],
+    "explanation": "拙荆、贱内是旧时男子对自己妻子的谦称；仅理解古文，不建议作为今天的日常称呼。",
+    "flags": [
+      "古语语境"
+    ],
+    "confusions": [
+      "对方的妻子",
+      "自己的母亲",
+      "对方的女儿"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K060",
+    "number": 60,
+    "title": "犬子、小女",
+    "original": "犬子、小女：称自己的儿女",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "犬子、小女",
+      "自己的子女"
+    ],
+    "difficulty": 1,
+    "question": "“犬子”“小女”谦称谁？",
+    "answer": "自己的子女",
+    "decoys": [
+      "对方的子女",
+      "自己的父母",
+      "对方的兄妹"
+    ],
+    "explanation": "犬子、小女：称自己的儿女",
+    "flags": [],
+    "confusions": [
+      "对方的子女",
+      "自己的父母",
+      "对方的兄妹"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K061",
+    "number": 61,
+    "title": "冰人",
+    "original": "冰人：媒人",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "冰人",
+      "媒人"
+    ],
+    "difficulty": 1,
+    "question": "古语中的“冰人”指？",
+    "answer": "媒人",
+    "decoys": [
+      "厨师",
+      "医生",
+      "教师"
+    ],
+    "explanation": "冰人：媒人",
+    "flags": [],
+    "confusions": [
+      "厨师",
+      "医生",
+      "教师"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K062",
+    "number": 62,
+    "title": "杏林",
+    "original": "杏林：医学界，源于三国时期的董奉植杏林",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "杏林",
+      "医学界"
+    ],
+    "difficulty": 1,
+    "question": "“杏林”常代指哪个领域？",
+    "answer": "医学界",
+    "decoys": [
+      "教育界",
+      "戏曲界",
+      "书法界"
+    ],
+    "explanation": "杏林：医学界，源于三国时期的董奉植杏林",
+    "flags": [],
+    "confusions": [
+      "教育界",
+      "戏曲界",
+      "书法界"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K063",
+    "number": 63,
+    "title": "梨园",
+    "original": "梨园：戏曲界",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "梨园",
+      "戏曲界"
+    ],
+    "difficulty": 1,
+    "question": "“梨园”常代指哪个领域？",
+    "answer": "戏曲界",
+    "decoys": [
+      "医学界",
+      "教育界",
+      "航天界"
+    ],
+    "explanation": "梨园：戏曲界",
+    "flags": [],
+    "confusions": [
+      "医学界",
+      "教育界",
+      "航天界"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K064",
+    "number": 64,
+    "title": "杏坛",
+    "original": "杏坛：教育界。相传孔子在杏坛设教，收弟子三千，授六艺之学，后称教育界为杏坛",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "杏坛",
+      "教育界"
+    ],
+    "difficulty": 1,
+    "question": "“杏坛”常代指哪个领域？",
+    "answer": "教育界",
+    "decoys": [
+      "医学界",
+      "戏曲界",
+      "航海界"
+    ],
+    "explanation": "杏坛：教育界。相传孔子在杏坛设教，收弟子三千，授六艺之学，后称教育界为杏坛",
+    "flags": [],
+    "confusions": [
+      "医学界",
+      "戏曲界",
+      "航海界"
+    ],
+    "firstLevel": 8,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "班级文化墙要用一个古语代称教育界。加号应选哪张牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K065",
+    "number": 65,
+    "title": "庖丁",
+    "original": "庖丁：厨师，庖丁指名丁的厨师，出自《庄子》庖丁解牛",
+    "sourcePage": 3,
+    "chapter": "古语与称谓",
+    "keywords": [
+      "庖丁",
+      "厨师"
+    ],
+    "difficulty": 1,
+    "question": "“庖丁解牛”中的庖丁是一位？",
+    "answer": "厨师",
+    "decoys": [
+      "诗人",
+      "医生",
+      "皇帝"
+    ],
+    "explanation": "庖丁：厨师，庖丁指名丁的厨师，出自《庄子》庖丁解牛",
+    "flags": [],
+    "confusions": [
+      "诗人",
+      "医生",
+      "皇帝"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K066",
+    "number": 66,
+    "title": "三山",
+    "original": "三山：安徽黄山、江西庐山、浙江雁荡山",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "三山",
+      "雁荡山"
+    ],
+    "difficulty": 1,
+    "question": "黄山、庐山与哪座山合称传统“三山”？",
+    "answer": "雁荡山",
+    "decoys": [
+      "泰山",
+      "华山",
+      "嵩山"
+    ],
+    "explanation": "三山：安徽黄山、江西庐山、浙江雁荡山",
+    "flags": [],
+    "confusions": [
+      "泰山",
+      "华山",
+      "嵩山"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "黄山",
+      "庐山",
+      "雁荡山"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "泰山",
+      "华山"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K067",
+    "number": 67,
+    "title": "五岳",
+    "original": "五岳：东岳泰山、西岳华山、南岳衡山、北岳恒山、中岳嵩山",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "五岳",
+      "衡山"
+    ],
+    "difficulty": 3,
+    "question": "五岳中的“南岳”是？",
+    "answer": "衡山",
+    "decoys": [
+      "恒山",
+      "华山",
+      "泰山"
+    ],
+    "explanation": "五岳：东岳泰山、西岳华山、南岳衡山、北岳恒山、中岳嵩山",
+    "flags": [],
+    "confusions": [
+      "恒山",
+      "华山",
+      "泰山"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "泰山",
+      "华山",
+      "衡山",
+      "恒山",
+      "嵩山"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "黄山",
+      "庐山"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K068",
+    "number": 68,
+    "title": "三大平原",
+    "original": "三大平原：东北平原：中国面积最大的平原；华北平原：中国人口最多的平原；长江中下游平原：中国经济最发达的平原",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "三大平原",
+      "东北平原"
+    ],
+    "difficulty": 1,
+    "question": "我国面积最大的平原是？",
+    "answer": "东北平原",
+    "decoys": [
+      "华北平原",
+      "长江中下游平原",
+      "青藏高原"
+    ],
+    "explanation": "我国三大平原是东北平原、华北平原、长江中下游平原；其中东北平原面积最大。人口与经济排序受口径、年份影响，不出排序题。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "华北平原",
+      "长江中下游平原",
+      "青藏高原"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "东北平原",
+      "华北平原",
+      "长江中下游平原"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "青藏高原",
+      "黄土高原"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K069",
+    "number": 69,
+    "title": "佛教四大名山",
+    "original": "佛教四大名山：山西五台山、四川峨眉山、浙江普陀山、安徽九华山（记忆口诀：吾儿华陀）",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "佛教四大名山",
+      "五台山"
+    ],
+    "difficulty": 3,
+    "question": "哪座山属于佛教四大名山？",
+    "answer": "五台山",
+    "decoys": [
+      "武当山",
+      "青城山",
+      "龙虎山"
+    ],
+    "explanation": "佛教四大名山：山西五台山、四川峨眉山、浙江普陀山、安徽九华山（记忆口诀：吾儿华陀）",
+    "flags": [],
+    "confusions": [
+      "武当山",
+      "青城山",
+      "龙虎山"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "五台山",
+      "峨眉山",
+      "普陀山",
+      "九华山"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "武当山",
+      "龙虎山"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K070",
+    "number": 70,
+    "title": "道教四大名山",
+    "original": "道教四大名山：湖北武当山、四川青城山、江西龙虎山、安徽齐云山（记忆口诀：青龙起舞）",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "道教四大名山",
+      "武当山"
+    ],
+    "difficulty": 3,
+    "question": "哪座山属于道教四大名山？",
+    "answer": "武当山",
+    "decoys": [
+      "五台山",
+      "峨眉山",
+      "普陀山"
+    ],
+    "explanation": "道教四大名山：湖北武当山、四川青城山、江西龙虎山、安徽齐云山（记忆口诀：青龙起舞）",
+    "flags": [],
+    "confusions": [
+      "五台山",
+      "峨眉山",
+      "普陀山"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "武当山",
+      "青城山",
+      "龙虎山",
+      "齐云山"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "五台山",
+      "峨眉山"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K071",
+    "number": 71,
+    "title": "塔里木河",
+    "original": "塔里木河：中国最长的内流河",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "塔里木河",
+      "塔里木河"
+    ],
+    "difficulty": 1,
+    "question": "我国最长的内流河是？",
+    "answer": "塔里木河",
+    "decoys": [
+      "长江",
+      "黄河",
+      "珠江"
+    ],
+    "explanation": "塔里木河：中国最长的内流河",
+    "flags": [],
+    "confusions": [
+      "长江",
+      "黄河",
+      "珠江"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K072",
+    "number": 72,
+    "title": "长江",
+    "original": "长江：中国最长河流",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "长江",
+      "长江"
+    ],
+    "difficulty": 1,
+    "question": "我国最长的河流是？",
+    "answer": "长江",
+    "decoys": [
+      "黄河",
+      "塔里木河",
+      "淮河"
+    ],
+    "explanation": "长江：中国最长河流",
+    "flags": [],
+    "confusions": [
+      "黄河",
+      "塔里木河",
+      "淮河"
+    ],
+    "firstLevel": 9,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K073",
+    "number": 73,
+    "title": "黄河",
+    "original": "黄河：中国的母亲河，世界上含沙量最大的河",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "黄河",
+      "黄河"
+    ],
+    "difficulty": 1,
+    "question": "常被称作中华民族“母亲河”的是？",
+    "answer": "黄河",
+    "decoys": [
+      "塔里木河",
+      "尼罗河",
+      "亚马孙河"
+    ],
+    "explanation": "黄河常被称为中华民族的母亲河，含沙量大。“世界含沙量最大”需限定时期和统计口径，不出绝对排序题。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "塔里木河",
+      "尼罗河",
+      "亚马孙河"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K074",
+    "number": 74,
+    "title": "四大发明",
+    "original": "四大发明：造纸术、印刷术、指南针、火药",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大发明",
+      "指南针"
+    ],
+    "difficulty": 3,
+    "question": "哪项属于中国古代四大发明？",
+    "answer": "指南针",
+    "decoys": [
+      "电话",
+      "飞机",
+      "望远镜"
+    ],
+    "explanation": "四大发明：造纸术、印刷术、指南针、火药",
+    "flags": [],
+    "confusions": [
+      "电话",
+      "飞机",
+      "望远镜"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords",
+      "scenario"
+    ],
+    "parts": [
+      "造纸术",
+      "印刷术",
+      "指南针",
+      "火药"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "电话",
+      "飞机"
+    ],
+    "scenario": "科技小展览要摆出一项中国古代四大发明。哪张卡适合放进去？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K075",
+    "number": 75,
+    "title": "四大古都",
+    "original": "四大古都：西安（13）、洛阳（11）、南京（6）、北京（6）",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大古都",
+      "南京"
+    ],
+    "difficulty": 3,
+    "question": "哪座城市属于传统“四大古都”？",
+    "answer": "南京",
+    "decoys": [
+      "苏州",
+      "杭州",
+      "成都"
+    ],
+    "explanation": "传统四大古都是西安、洛阳、南京、北京；建都朝代数量有不同统计口径，不把原文括号数字作为唯一答案。",
+    "flags": [
+      "统计口径"
+    ],
+    "confusions": [
+      "苏州",
+      "杭州",
+      "成都"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "西安",
+      "洛阳",
+      "南京",
+      "北京"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "苏州",
+      "成都"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K076",
+    "number": 76,
+    "title": "四大名亭",
+    "original": "四大名亭：醉翁亭、陶然亭、爱晚亭、湖心亭",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大名亭",
+      "陶然亭"
+    ],
+    "difficulty": 3,
+    "question": "哪一项属于“四大名亭”？",
+    "answer": "陶然亭",
+    "decoys": [
+      "滕王阁",
+      "岳阳楼",
+      "黄鹤楼"
+    ],
+    "explanation": "四大名亭：醉翁亭、陶然亭、爱晚亭、湖心亭",
+    "flags": [],
+    "confusions": [
+      "滕王阁",
+      "岳阳楼",
+      "黄鹤楼"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "醉翁亭",
+      "陶然亭",
+      "爱晚亭",
+      "湖心亭"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "滕王阁",
+      "岳阳楼"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K077",
+    "number": 77,
+    "title": "四大名园",
+    "original": "四大名园：北京颐和园、河北承德避暑山庄、苏州拙政园、苏州留园（记忆口诀：郑和去留园避暑）",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大名园",
+      "拙政园"
+    ],
+    "difficulty": 3,
+    "question": "哪座园林位于苏州且属于四大名园？",
+    "answer": "拙政园",
+    "decoys": [
+      "颐和园",
+      "避暑山庄",
+      "圆明园"
+    ],
+    "explanation": "四大名园：北京颐和园、河北承德避暑山庄、苏州拙政园、苏州留园（记忆口诀：郑和去留园避暑）",
+    "flags": [],
+    "confusions": [
+      "颐和园",
+      "避暑山庄",
+      "圆明园"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "颐和园",
+      "避暑山庄",
+      "拙政园",
+      "留园"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "圆明园"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K078",
+    "number": 78,
+    "title": "颐和园",
+    "original": "颐和园：中国现存最完整的古典皇家园林",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "颐和园",
+      "颐和园"
+    ],
+    "difficulty": 1,
+    "question": "北京著名的古典皇家园林是？",
+    "answer": "颐和园",
+    "decoys": [
+      "拙政园",
+      "留园",
+      "醉翁亭"
+    ],
+    "explanation": "颐和园是北京著名且保存较完整的古典皇家园林。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "拙政园",
+      "留园",
+      "醉翁亭"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K079",
+    "number": 79,
+    "title": "故宫",
+    "original": "故宫：世界现存最大、最完整的木质结构的古建筑群",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "故宫",
+      "故宫"
+    ],
+    "difficulty": 1,
+    "question": "哪处是北京著名的宫殿建筑群？",
+    "answer": "故宫",
+    "decoys": [
+      "莫高窟",
+      "白鹿洞书院",
+      "陶然亭"
+    ],
+    "explanation": "故宫是北京著名、保存完整的木结构宫殿建筑群之一；避免将“最大”泛化到所有统计口径。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "莫高窟",
+      "白鹿洞书院",
+      "陶然亭"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K080",
+    "number": 80,
+    "title": "四大名楼",
+    "original": "四大名楼：湖南岳阳楼、湖北黄鹤楼、江西滕王阁、山西鹳雀楼（记忆口诀：飞黄腾达，欢呼雀跃）",
+    "sourcePage": 3,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大名楼",
+      "湖北"
+    ],
+    "difficulty": 3,
+    "question": "黄鹤楼位于哪个省？",
+    "answer": "湖北",
+    "decoys": [
+      "湖南",
+      "江西",
+      "山西"
+    ],
+    "explanation": "四大名楼：湖南岳阳楼、湖北黄鹤楼、江西滕王阁、山西鹳雀楼（记忆口诀：飞黄腾达，欢呼雀跃）",
+    "flags": [],
+    "confusions": [
+      "湖南",
+      "江西",
+      "山西"
+    ],
+    "firstLevel": 10,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "岳阳楼",
+      "黄鹤楼",
+      "滕王阁",
+      "鹳雀楼"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "湖南",
+      "江西"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K081",
+    "number": 81,
+    "title": "四大书院",
+    "original": "四大书院：睢阳书院（应天书院）、岳麓书院、白鹿洞书院、嵩阳书院（记忆口诀：岁月松柏）",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大书院",
+      "岳麓书院"
+    ],
+    "difficulty": 3,
+    "question": "哪一项属于传统“四大书院”？",
+    "answer": "岳麓书院",
+    "decoys": [
+      "颐和园",
+      "黄鹤楼",
+      "拙政园"
+    ],
+    "explanation": "四大书院：睢阳书院（应天书院）、岳麓书院、白鹿洞书院、嵩阳书院（记忆口诀：岁月松柏）",
+    "flags": [],
+    "confusions": [
+      "颐和园",
+      "黄鹤楼",
+      "拙政园"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "应天书院",
+      "岳麓书院",
+      "白鹿洞书院",
+      "嵩阳书院"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "颐和园",
+      "黄鹤楼"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K082",
+    "number": 82,
+    "title": "四大高原",
+    "original": "四大高原：青藏高原（中国最大、世界海拔最高的高原、世界屋脊）、内蒙古高原（中国第二大高原）、云贵高原、黄土高原",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大高原",
+      "青藏高原"
+    ],
+    "difficulty": 3,
+    "question": "被称为“世界屋脊”的是？",
+    "answer": "青藏高原",
+    "decoys": [
+      "内蒙古高原",
+      "黄土高原",
+      "云贵高原"
+    ],
+    "explanation": "四大高原：青藏高原（中国最大、世界海拔最高的高原、世界屋脊）、内蒙古高原（中国第二大高原）、云贵高原、黄土高原",
+    "flags": [],
+    "confusions": [
+      "内蒙古高原",
+      "黄土高原",
+      "云贵高原"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "青藏高原",
+      "内蒙古高原",
+      "云贵高原",
+      "黄土高原"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "东北平原",
+      "华北平原"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K083",
+    "number": 83,
+    "title": "中国四大海",
+    "original": "中国四大海（从北到南）：渤海—黄海—东海—南海",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "中国四大海",
+      "黄海"
+    ],
+    "difficulty": 3,
+    "question": "从北向南，渤海之后是哪片海？",
+    "answer": "黄海",
+    "decoys": [
+      "南海",
+      "东海",
+      "地中海"
+    ],
+    "explanation": "中国四大海（从北到南）：渤海—黄海—东海—南海",
+    "flags": [],
+    "confusions": [
+      "南海",
+      "东海",
+      "地中海"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords",
+      "scenario"
+    ],
+    "parts": [
+      "渤海",
+      "黄海",
+      "东海",
+      "南海"
+    ],
+    "ordered": true,
+    "partDecoys": [
+      "地中海",
+      "红海"
+    ],
+    "scenario": "老师带学生从渤海沿中国海岸向南认识海洋。接下来应介绍？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K084",
+    "number": 84,
+    "title": "四大名绣",
+    "original": "四大名绣：苏绣、湘绣、蜀绣、粤绣",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大名绣",
+      "湘绣"
+    ],
+    "difficulty": 3,
+    "question": "哪项属于中国四大名绣？",
+    "answer": "湘绣",
+    "decoys": [
+      "汴绣",
+      "京绣",
+      "瓯绣"
+    ],
+    "explanation": "四大名绣：苏绣、湘绣、蜀绣、粤绣",
+    "flags": [],
+    "confusions": [
+      "汴绣",
+      "京绣",
+      "瓯绣"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "苏绣",
+      "湘绣",
+      "蜀绣",
+      "粤绣"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "汴绣",
+      "京绣"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K085",
+    "number": 85,
+    "title": "四大石窟",
+    "original": "四大石窟：云冈石窟、龙门石窟、麦积山石窟、敦煌莫高窟",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "四大石窟",
+      "龙门石窟"
+    ],
+    "difficulty": 3,
+    "question": "哪项属于中国四大石窟？",
+    "answer": "龙门石窟",
+    "decoys": [
+      "黄鹤楼",
+      "白鹿洞书院",
+      "避暑山庄"
+    ],
+    "explanation": "四大石窟：云冈石窟、龙门石窟、麦积山石窟、敦煌莫高窟",
+    "flags": [],
+    "confusions": [
+      "黄鹤楼",
+      "白鹿洞书院",
+      "避暑山庄"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "云冈石窟",
+      "龙门石窟",
+      "麦积山石窟",
+      "莫高窟"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "黄鹤楼",
+      "白鹿洞书院"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K086",
+    "number": 86,
+    "title": "文人四友",
+    "original": "文人四友：琴、棋、书、画",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "文人四友",
+      "画"
+    ],
+    "difficulty": 3,
+    "question": "文人四友是琴、棋、书和？",
+    "answer": "画",
+    "decoys": [
+      "砚",
+      "墨",
+      "纸"
+    ],
+    "explanation": "文人四友：琴、棋、书、画",
+    "flags": [],
+    "confusions": [
+      "砚",
+      "墨",
+      "纸"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "琴",
+      "棋",
+      "书",
+      "画"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "墨",
+      "砚"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K087",
+    "number": 87,
+    "title": "文房四宝",
+    "original": "文房四宝：笔、墨、纸、砚",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "文房四宝",
+      "砚"
+    ],
+    "difficulty": 3,
+    "question": "笔、墨、纸与哪一项合称文房四宝？",
+    "answer": "砚",
+    "decoys": [
+      "琴",
+      "棋",
+      "画"
+    ],
+    "explanation": "文房四宝：笔、墨、纸、砚",
+    "flags": [],
+    "confusions": [
+      "琴",
+      "棋",
+      "画"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "笔",
+      "墨",
+      "纸",
+      "砚"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "琴",
+      "棋"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K088",
+    "number": 88,
+    "title": "六艺",
+    "original": "六艺：礼、乐、射、御、书、数",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "六艺",
+      "六艺"
+    ],
+    "difficulty": 1,
+    "question": "古代“礼、乐、射、御、书、数”合称？",
+    "answer": "六艺",
+    "decoys": [
+      "四书",
+      "五经",
+      "三元"
+    ],
+    "explanation": "六艺：礼、乐、射、御、书、数",
+    "flags": [],
+    "confusions": [
+      "四书",
+      "五经",
+      "三元"
+    ],
+    "firstLevel": 11,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K089",
+    "number": 89,
+    "title": "宋五大名窑",
+    "original": "宋五大名窑：哥窑、汝窑、定窑、官窑、钧窑",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "宋五大名窑",
+      "汝窑"
+    ],
+    "difficulty": 3,
+    "question": "哪一项属于宋代五大名窑？",
+    "answer": "汝窑",
+    "decoys": [
+      "龙泉窑",
+      "磁州窑",
+      "建窑"
+    ],
+    "explanation": "宋五大名窑：哥窑、汝窑、定窑、官窑、钧窑",
+    "flags": [],
+    "confusions": [
+      "龙泉窑",
+      "磁州窑",
+      "建窑"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "汝窑",
+      "官窑",
+      "哥窑",
+      "钧窑",
+      "定窑"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "龙泉窑",
+      "磁州窑"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K090",
+    "number": 90,
+    "title": "科考三元",
+    "original": "科考三元：解元（乡试）、会元（会试）、状元（殿试）",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "科考三元",
+      "解元"
+    ],
+    "difficulty": 1,
+    "question": "乡试第一名通常称为？",
+    "answer": "解元",
+    "decoys": [
+      "会元",
+      "状元",
+      "榜眼"
+    ],
+    "explanation": "科考三元：解元（乡试）、会元（会试）、状元（殿试）",
+    "flags": [],
+    "confusions": [
+      "会元",
+      "状元",
+      "榜眼"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "课堂演示古代科举：同学获得乡试第一名，应领取哪张称号牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K091",
+    "number": 91,
+    "title": "三鼎甲",
+    "original": "三鼎甲：状元、榜眼、探花",
+    "sourcePage": 4,
+    "chapter": "山河与传统",
+    "keywords": [
+      "三鼎甲",
+      "榜眼"
+    ],
+    "difficulty": 1,
+    "question": "殿试前三名中，第二名称为？",
+    "answer": "榜眼",
+    "decoys": [
+      "状元",
+      "探花",
+      "解元"
+    ],
+    "explanation": "三鼎甲：状元、榜眼、探花",
+    "flags": [],
+    "confusions": [
+      "状元",
+      "探花",
+      "解元"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "状元",
+      "榜眼",
+      "探花"
+    ],
+    "ordered": true,
+    "partDecoys": [
+      "解元",
+      "会元"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K092",
+    "number": 92,
+    "title": "《神农本草经》",
+    "original": "《神农本草经》：中国第一部完整的药物学著作",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "《神农本草经》",
+      "《神农本草经》"
+    ],
+    "difficulty": 1,
+    "question": "我国早期完整的药物学著作是？",
+    "answer": "《神农本草经》",
+    "decoys": [
+      "《茶经》",
+      "《齐民要术》",
+      "《天工开物》"
+    ],
+    "explanation": "《神农本草经》：中国第一部完整的药物学著作",
+    "flags": [],
+    "confusions": [
+      "《茶经》",
+      "《齐民要术》",
+      "《天工开物》"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K093",
+    "number": 93,
+    "title": "《唐本草》",
+    "original": "《唐本草》（唐高宗时修）：世界上最早的、由国家颁布的药典",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "《唐本草》",
+      "《唐本草》"
+    ],
+    "difficulty": 1,
+    "question": "唐代由国家组织编修的药典是？",
+    "answer": "《唐本草》",
+    "decoys": [
+      "《论语》",
+      "《茶经》",
+      "《农政全书》"
+    ],
+    "explanation": "《唐本草》（唐高宗时修）：世界上最早的、由国家颁布的药典",
+    "flags": [],
+    "confusions": [
+      "《论语》",
+      "《茶经》",
+      "《农政全书》"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K094",
+    "number": 94,
+    "title": "文艺复兴文学三杰",
+    "original": "文艺复兴文学三杰：但丁、彼得拉克、薄伽丘",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "文艺复兴文学三杰",
+      "彼得拉克"
+    ],
+    "difficulty": 1,
+    "question": "谁属于文艺复兴“文学三杰”？",
+    "answer": "彼得拉克",
+    "decoys": [
+      "达·芬奇",
+      "米开朗琪罗",
+      "拉斐尔"
+    ],
+    "explanation": "文艺复兴文学三杰：但丁、彼得拉克、薄伽丘",
+    "flags": [],
+    "confusions": [
+      "达·芬奇",
+      "米开朗琪罗",
+      "拉斐尔"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "但丁",
+      "彼得拉克",
+      "薄伽丘"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "达·芬奇",
+      "拉斐尔"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K095",
+    "number": 95,
+    "title": "文艺复兴美术三杰",
+    "original": "文艺复兴美术三杰：达·芬奇、米开朗琪罗、拉斐尔",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "文艺复兴美术三杰",
+      "米开朗琪罗"
+    ],
+    "difficulty": 1,
+    "question": "谁属于文艺复兴“美术三杰”？",
+    "answer": "米开朗琪罗",
+    "decoys": [
+      "但丁",
+      "薄伽丘",
+      "彼得拉克"
+    ],
+    "explanation": "文艺复兴美术三杰：达·芬奇、米开朗琪罗、拉斐尔",
+    "flags": [],
+    "confusions": [
+      "但丁",
+      "薄伽丘",
+      "彼得拉克"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "达·芬奇",
+      "米开朗琪罗",
+      "拉斐尔"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "但丁",
+      "薄伽丘"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K096",
+    "number": 96,
+    "title": "春秋五霸",
+    "original": "春秋五霸：齐桓公、晋文公、楚庄王、吴王阖闾、越王勾践",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "春秋五霸",
+      "齐桓公"
+    ],
+    "difficulty": 1,
+    "question": "不同版本“五霸”名单中通常都有谁？",
+    "answer": "齐桓公",
+    "decoys": [
+      "秦始皇",
+      "汉武帝",
+      "唐太宗"
+    ],
+    "explanation": "春秋五霸存在不同名单；本资料列齐桓公、晋文公、楚庄王、吴王阖闾、越王勾践。不将其他常见名单判为错误。",
+    "flags": [
+      "名单多说"
+    ],
+    "confusions": [
+      "秦始皇",
+      "汉武帝",
+      "唐太宗"
+    ],
+    "firstLevel": 12,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K097",
+    "number": 97,
+    "title": "战国七雄",
+    "original": "战国七雄：齐、楚、燕、韩、赵、魏、秦（秦统一，喊赵薇去演戏）",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "战国七雄",
+      "燕"
+    ],
+    "difficulty": 1,
+    "question": "哪一国属于战国七雄？",
+    "answer": "燕",
+    "decoys": [
+      "吴",
+      "越",
+      "晋"
+    ],
+    "explanation": "战国七雄：齐、楚、燕、韩、赵、魏、秦（秦统一，喊赵薇去演戏）",
+    "flags": [],
+    "confusions": [
+      "吴",
+      "越",
+      "晋"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K098",
+    "number": 98,
+    "title": "战国著名战争",
+    "original": "战国著名战争：桂陵之战（围魏救赵）、长平之战（赵括—纸上谈兵）、马陵之战（减灶计）",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "战国著名战争",
+      "桂陵之战"
+    ],
+    "difficulty": 1,
+    "question": "“围魏救赵”与哪场战役相关？",
+    "answer": "桂陵之战",
+    "decoys": [
+      "长平之战",
+      "赤壁之战",
+      "官渡之战"
+    ],
+    "explanation": "战国著名战争：桂陵之战（围魏救赵）、长平之战（赵括—纸上谈兵）、马陵之战（减灶计）",
+    "flags": [],
+    "confusions": [
+      "长平之战",
+      "赤壁之战",
+      "官渡之战"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K099",
+    "number": 99,
+    "title": "战国四公子",
+    "original": "战国四公子：魏国的信陵君魏无忌、赵国的平原君赵胜、楚国的春申君黄歇、齐国的孟尝君田文",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "战国四公子",
+      "信陵君"
+    ],
+    "difficulty": 1,
+    "question": "魏无忌的封号是？",
+    "answer": "信陵君",
+    "decoys": [
+      "平原君",
+      "春申君",
+      "孟尝君"
+    ],
+    "explanation": "战国四公子：魏国的信陵君魏无忌、赵国的平原君赵胜、楚国的春申君黄歇、齐国的孟尝君田文",
+    "flags": [],
+    "confusions": [
+      "平原君",
+      "春申君",
+      "孟尝君"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K100",
+    "number": 100,
+    "title": "战国四大名将",
+    "original": "战国四大名将：白起、廉颇、李牧、王翦",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "战国四大名将",
+      "廉颇"
+    ],
+    "difficulty": 3,
+    "question": "谁属于战国四大名将？",
+    "answer": "廉颇",
+    "decoys": [
+      "曹操",
+      "项羽",
+      "谢安"
+    ],
+    "explanation": "战国四大名将：白起、廉颇、李牧、王翦",
+    "flags": [],
+    "confusions": [
+      "曹操",
+      "项羽",
+      "谢安"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "白起",
+      "廉颇",
+      "李牧",
+      "王翦"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "曹操",
+      "项羽"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K101",
+    "number": 101,
+    "title": "文景之治",
+    "original": "文景之治：西汉，汉文帝、汉景帝，中国封建社会第一个治世",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "文景之治",
+      "西汉"
+    ],
+    "difficulty": 1,
+    "question": "“文景之治”出现于哪个朝代？",
+    "answer": "西汉",
+    "decoys": [
+      "东汉",
+      "唐朝",
+      "宋朝"
+    ],
+    "explanation": "文景之治：西汉，汉文帝、汉景帝，中国封建社会第一个治世",
+    "flags": [],
+    "confusions": [
+      "东汉",
+      "唐朝",
+      "宋朝"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K102",
+    "number": 102,
+    "title": "光武中兴",
+    "original": "光武中兴：东汉光武帝刘秀统治时期出现的治世",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "光武中兴",
+      "刘秀"
+    ],
+    "difficulty": 1,
+    "question": "“光武中兴”与谁相关？",
+    "answer": "刘秀",
+    "decoys": [
+      "刘彻",
+      "李世民",
+      "李隆基"
+    ],
+    "explanation": "光武中兴：东汉光武帝刘秀统治时期出现的治世",
+    "flags": [],
+    "confusions": [
+      "刘彻",
+      "李世民",
+      "李隆基"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K103",
+    "number": 103,
+    "title": "贞观之治",
+    "original": "贞观之治：唐朝，唐太宗李世民统治时期出现的治世",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "贞观之治",
+      "唐太宗李世民"
+    ],
+    "difficulty": 1,
+    "question": "“贞观之治”是哪位皇帝在位时的治世？",
+    "answer": "唐太宗李世民",
+    "decoys": [
+      "汉武帝刘彻",
+      "唐玄宗李隆基",
+      "光武帝刘秀"
+    ],
+    "explanation": "贞观之治：唐朝，唐太宗李世民统治时期出现的治世",
+    "flags": [],
+    "confusions": [
+      "汉武帝刘彻",
+      "唐玄宗李隆基",
+      "光武帝刘秀"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K104",
+    "number": 104,
+    "title": "开元之治",
+    "original": "开元之治：唐朝，唐玄宗李隆基统治时期出现的治世",
+    "sourcePage": 4,
+    "chapter": "历史与远航",
+    "keywords": [
+      "开元之治",
+      "唐玄宗李隆基"
+    ],
+    "difficulty": 1,
+    "question": "“开元之治”与谁相关？",
+    "answer": "唐玄宗李隆基",
+    "decoys": [
+      "唐太宗李世民",
+      "汉文帝",
+      "光武帝刘秀"
+    ],
+    "explanation": "开元之治：唐朝，唐玄宗李隆基统治时期出现的治世",
+    "flags": [],
+    "confusions": [
+      "唐太宗李世民",
+      "汉文帝",
+      "光武帝刘秀"
+    ],
+    "firstLevel": 13,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K105",
+    "number": 105,
+    "title": "牧野之战",
+    "original": "牧野之战（周武王VS商纣王）--以少胜多著名战争",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "牧野之战",
+      "商纣王"
+    ],
+    "difficulty": 1,
+    "question": "牧野之战中，周武王的对手是？",
+    "answer": "商纣王",
+    "decoys": [
+      "袁绍",
+      "曹操",
+      "苻坚"
+    ],
+    "explanation": "牧野之战（周武王VS商纣王），以少胜多著名战争",
+    "flags": [],
+    "confusions": [
+      "袁绍",
+      "曹操",
+      "苻坚"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K106",
+    "number": 106,
+    "title": "巨鹿之战",
+    "original": "巨鹿之战（项羽VS秦名将章邯、王离）--以少胜多著名战争",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "巨鹿之战",
+      "项羽"
+    ],
+    "difficulty": 1,
+    "question": "巨鹿之战中，率军击败秦军的是？",
+    "answer": "项羽",
+    "decoys": [
+      "曹操",
+      "刘秀",
+      "李世民"
+    ],
+    "explanation": "巨鹿之战（项羽VS秦名将章邯、王离），以少胜多著名战争",
+    "flags": [],
+    "confusions": [
+      "曹操",
+      "刘秀",
+      "李世民"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K107",
+    "number": 107,
+    "title": "官渡之战",
+    "original": "官渡之战（曹操VS袁绍）--以少胜多著名战争",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "官渡之战",
+      "曹操与袁绍"
+    ],
+    "difficulty": 1,
+    "question": "官渡之战主要交战双方是？",
+    "answer": "曹操与袁绍",
+    "decoys": [
+      "周武王与商纣王",
+      "孙刘联军与曹操",
+      "东晋与前秦"
+    ],
+    "explanation": "官渡之战（曹操VS袁绍），以少胜多著名战争",
+    "flags": [],
+    "confusions": [
+      "周武王与商纣王",
+      "孙刘联军与曹操",
+      "东晋与前秦"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K108",
+    "number": 108,
+    "title": "赤壁之战",
+    "original": "赤壁之战（孙权刘备VS曹操）--以少胜多著名战争",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "赤壁之战",
+      "孙刘联军"
+    ],
+    "difficulty": 1,
+    "question": "赤壁之战中，曹操面对的是？",
+    "answer": "孙刘联军",
+    "decoys": [
+      "商朝军队",
+      "秦朝军队",
+      "前秦军队"
+    ],
+    "explanation": "赤壁之战（孙权刘备VS曹操），以少胜多著名战争",
+    "flags": [],
+    "confusions": [
+      "商朝军队",
+      "秦朝军队",
+      "前秦军队"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K109",
+    "number": 109,
+    "title": "淝水之战",
+    "original": "淝水之战（东晋谢安VS前秦苻坚）--以少胜多著名战争",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "淝水之战",
+      "东晋与前秦"
+    ],
+    "difficulty": 1,
+    "question": "淝水之战的交战双方是？",
+    "answer": "东晋与前秦",
+    "decoys": [
+      "曹操与袁绍",
+      "周与商",
+      "孙刘联军与曹操"
+    ],
+    "explanation": "淝水之战交战双方为东晋与前秦。谢安主持大局，前线统军还有谢石、谢玄等；不用“谢安亲自前线指挥”作答案。",
+    "flags": [
+      "表述细化"
+    ],
+    "confusions": [
+      "曹操与袁绍",
+      "周与商",
+      "孙刘联军与曹操"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K110",
+    "number": 110,
+    "title": "大泽乡起义",
+    "original": "大泽乡起义：秦朝末年，陈胜、吴广起义，中国历史上第一次大规模的农民起义",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "大泽乡起义",
+      "陈胜、吴广"
+    ],
+    "difficulty": 1,
+    "question": "大泽乡起义的领导者是？",
+    "answer": "陈胜、吴广",
+    "decoys": [
+      "曹操、袁绍",
+      "苏轼、苏辙",
+      "王勃、杨炯"
+    ],
+    "explanation": "大泽乡起义：秦朝末年，陈胜、吴广起义，中国历史上第一次大规模的农民起义",
+    "flags": [],
+    "confusions": [
+      "曹操、袁绍",
+      "苏轼、苏辙",
+      "王勃、杨炯"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K111",
+    "number": 111,
+    "title": "黄巾起义",
+    "original": "黄巾起义：东汉末年，张角，“苍天已死，黄天当立，岁在甲子，天下大吉”",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "黄巾起义",
+      "张角"
+    ],
+    "difficulty": 1,
+    "question": "东汉末年黄巾起义的领导者是？",
+    "answer": "张角",
+    "decoys": [
+      "陈胜",
+      "吴广",
+      "刘秀"
+    ],
+    "explanation": "黄巾起义：东汉末年，张角，“苍天已死，黄天当立，岁在甲子，天下大吉”",
+    "flags": [],
+    "confusions": [
+      "陈胜",
+      "吴广",
+      "刘秀"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K112",
+    "number": 112,
+    "title": "迪亚士",
+    "original": "迪亚士率船队抵达非洲西南端的好望角",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "迪亚士",
+      "迪亚士"
+    ],
+    "difficulty": 1,
+    "question": "率船队抵达非洲好望角的是？",
+    "answer": "迪亚士",
+    "decoys": [
+      "哥伦布",
+      "达·伽马",
+      "麦哲伦"
+    ],
+    "explanation": "迪亚士率船队抵达非洲西南端的好望角",
+    "flags": [],
+    "confusions": [
+      "哥伦布",
+      "达·伽马",
+      "麦哲伦"
+    ],
+    "firstLevel": 14,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K113",
+    "number": 113,
+    "title": "哥伦布",
+    "original": "哥伦布开辟通往美洲的新航路（美哥）",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "哥伦布",
+      "哥伦布"
+    ],
+    "difficulty": 1,
+    "question": "开辟通往美洲新航路的是？",
+    "answer": "哥伦布",
+    "decoys": [
+      "迪亚士",
+      "达·伽马",
+      "毕昇"
+    ],
+    "explanation": "哥伦布开辟通往美洲的新航路（美哥）",
+    "flags": [],
+    "confusions": [
+      "迪亚士",
+      "达·伽马",
+      "毕昇"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K114",
+    "number": 114,
+    "title": "达·伽马",
+    "original": "达·伽马开辟欧洲从海上直通印度的新航路",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "达·伽马",
+      "达·伽马"
+    ],
+    "difficulty": 1,
+    "question": "开辟欧洲海上直达印度航路的是？",
+    "answer": "达·伽马",
+    "decoys": [
+      "哥伦布",
+      "迪亚士",
+      "蔡伦"
+    ],
+    "explanation": "达·伽马开辟欧洲从海上直通印度的新航路",
+    "flags": [],
+    "confusions": [
+      "哥伦布",
+      "迪亚士",
+      "蔡伦"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K115",
+    "number": 115,
+    "title": "麦哲伦船队",
+    "original": "麦哲伦完成了穿越大西洋、太平洋、印度洋，再返回欧洲的环球航行，证实了地圆学说",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "麦哲伦船队",
+      "麦哲伦船队完成航行"
+    ],
+    "difficulty": 1,
+    "question": "关于首次环球航行，哪张牌更准确？",
+    "answer": "麦哲伦船队完成航行",
+    "decoys": [
+      "麦哲伦本人全程完成",
+      "哥伦布完成环球航行",
+      "迪亚士完成环球航行"
+    ],
+    "explanation": "完成首次环球航行的是麦哲伦船队。麦哲伦本人中途去世，并未全程返回欧洲。",
+    "flags": [
+      "原文纠偏"
+    ],
+    "confusions": [
+      "麦哲伦本人全程完成",
+      "哥伦布完成环球航行",
+      "迪亚士完成环球航行"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "学生把“麦哲伦本人全程完成环球航行”写上展板。哪张牌能准确修正？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K116",
+    "number": 116,
+    "title": "雅尔塔会议",
+    "original": "雅尔塔会议决定战后成立联合国。",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "雅尔塔会议",
+      "筹建联合国"
+    ],
+    "difficulty": 1,
+    "question": "雅尔塔会议与哪件事的筹备有关？",
+    "answer": "筹建联合国",
+    "decoys": [
+      "创作《诗经》",
+      "发明活字印刷",
+      "编纂《四库全书》"
+    ],
+    "explanation": "雅尔塔会议推动筹建联合国；《联合国宪章》在旧金山会议签署，生效后联合国正式成立。筹建与正式成立要区分。",
+    "flags": [
+      "表述细化"
+    ],
+    "confusions": [
+      "创作《诗经》",
+      "发明活字印刷",
+      "编纂《四库全书》"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K117",
+    "number": 117,
+    "title": "爱琴文明",
+    "original": "爱琴文明：希腊最早的文明",
+    "sourcePage": 5,
+    "chapter": "历史与远航",
+    "keywords": [
+      "爱琴文明",
+      "古希腊文明"
+    ],
+    "difficulty": 1,
+    "question": "爱琴文明属于哪一古代文明的早期阶段？",
+    "answer": "古希腊文明",
+    "decoys": [
+      "古埃及文明",
+      "古印度文明",
+      "古代中国文明"
+    ],
+    "explanation": "爱琴文明：希腊最早的文明",
+    "flags": [],
+    "confusions": [
+      "古埃及文明",
+      "古印度文明",
+      "古代中国文明"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K118",
+    "number": 118,
+    "title": "诗经六义",
+    "original": "诗经六义：风、雅、颂，赋、比、兴",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗经六义",
+      "诗经六义"
+    ],
+    "difficulty": 1,
+    "question": "“风、雅、颂”与“赋、比、兴”合称？",
+    "answer": "诗经六义",
+    "decoys": [
+      "文房四宝",
+      "科考三元",
+      "战国七雄"
+    ],
+    "explanation": "诗经六义：风、雅、颂，赋、比、兴",
+    "flags": [],
+    "confusions": [
+      "文房四宝",
+      "科考三元",
+      "战国七雄"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K119",
+    "number": 119,
+    "title": "四书",
+    "original": "四书：《大学》《中庸》《论语》《孟子》",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "四书",
+      "《中庸》"
+    ],
+    "difficulty": 3,
+    "question": "哪一部属于“四书”？",
+    "answer": "《中庸》",
+    "decoys": [
+      "《春秋》",
+      "《尚书》",
+      "《诗经》"
+    ],
+    "explanation": "四书：《大学》《中庸》《论语》《孟子》",
+    "flags": [],
+    "confusions": [
+      "《春秋》",
+      "《尚书》",
+      "《诗经》"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《大学》",
+      "《中庸》",
+      "《论语》",
+      "《孟子》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《尚书》",
+      "《诗经》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K120",
+    "number": 120,
+    "title": "五经",
+    "original": "五经：《诗经》《尚书》《礼记》《周易》《春秋》",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "五经",
+      "《礼记》"
+    ],
+    "difficulty": 3,
+    "question": "哪一部属于“五经”？",
+    "answer": "《礼记》",
+    "decoys": [
+      "《大学》",
+      "《孟子》",
+      "《论语》"
+    ],
+    "explanation": "五经：《诗经》《尚书》《礼记》《周易》《春秋》",
+    "flags": [],
+    "confusions": [
+      "《大学》",
+      "《孟子》",
+      "《论语》"
+    ],
+    "firstLevel": 15,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《诗经》",
+      "《尚书》",
+      "《礼记》",
+      "《周易》",
+      "《春秋》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《大学》",
+      "《孟子》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K121",
+    "number": 121,
+    "title": "《春秋》",
+    "original": "《春秋》最早编年体史书",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "《春秋》",
+      "《春秋》"
+    ],
+    "difficulty": 1,
+    "question": "我国早期的编年体史书是？",
+    "answer": "《春秋》",
+    "decoys": [
+      "《史记》",
+      "《汉书》",
+      "《国语》"
+    ],
+    "explanation": "《春秋》最早编年体史书",
+    "flags": [],
+    "confusions": [
+      "《史记》",
+      "《汉书》",
+      "《国语》"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K122",
+    "number": 122,
+    "title": "《左传》",
+    "original": "《左传》第一部详细的编年体史书",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "《左传》",
+      "《左传》"
+    ],
+    "difficulty": 1,
+    "question": "哪部是详细的编年体史书？",
+    "answer": "《左传》",
+    "decoys": [
+      "《汉书》",
+      "《史记》",
+      "《国语》"
+    ],
+    "explanation": "《左传》第一部详细的编年体史书",
+    "flags": [],
+    "confusions": [
+      "《汉书》",
+      "《史记》",
+      "《国语》"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K123",
+    "number": 123,
+    "title": "《资治通鉴》",
+    "original": "《资治通鉴》最早编年体通史",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "《资治通鉴》",
+      "编年体通史"
+    ],
+    "difficulty": 1,
+    "question": "《资治通鉴》的体例是？",
+    "answer": "编年体通史",
+    "decoys": [
+      "纪传体断代史",
+      "国别体",
+      "语录体"
+    ],
+    "explanation": "《资治通鉴》是编年体通史，学习其体例，不考笼统的“最早”。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "纪传体断代史",
+      "国别体",
+      "语录体"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K124",
+    "number": 124,
+    "title": "《国语》",
+    "original": "《国语》最早国别体史书",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "《国语》",
+      "《国语》"
+    ],
+    "difficulty": 1,
+    "question": "我国早期的国别体史书是？",
+    "answer": "《国语》",
+    "decoys": [
+      "《史记》",
+      "《汉书》",
+      "《资治通鉴》"
+    ],
+    "explanation": "《国语》最早国别体史书",
+    "flags": [],
+    "confusions": [
+      "《史记》",
+      "《汉书》",
+      "《资治通鉴》"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K125",
+    "number": 125,
+    "title": "《史记》",
+    "original": "《史记》中国第一部纪传体通史",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "《史记》",
+      "《史记》"
+    ],
+    "difficulty": 1,
+    "question": "我国第一部纪传体通史是？",
+    "answer": "《史记》",
+    "decoys": [
+      "《汉书》",
+      "《春秋》",
+      "《国语》"
+    ],
+    "explanation": "《史记》中国第一部纪传体通史",
+    "flags": [],
+    "confusions": [
+      "《汉书》",
+      "《春秋》",
+      "《国语》"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "图书角要选一部纪传体通史作例子。加号应拿哪张书卡？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K126",
+    "number": 126,
+    "title": "《汉书》",
+    "original": "《汉书》第一部纪传体断代史",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "《汉书》",
+      "《汉书》"
+    ],
+    "difficulty": 1,
+    "question": "我国第一部纪传体断代史是？",
+    "answer": "《汉书》",
+    "decoys": [
+      "《史记》",
+      "《国语》",
+      "《资治通鉴》"
+    ],
+    "explanation": "《汉书》第一部纪传体断代史",
+    "flags": [],
+    "confusions": [
+      "《史记》",
+      "《国语》",
+      "《资治通鉴》"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K127",
+    "number": 127,
+    "title": "诗仙",
+    "original": "诗仙：李白，《将进酒》：天生我材必有用，千金散尽还复来",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗仙",
+      "李白"
+    ],
+    "difficulty": 1,
+    "question": "“诗仙”通常指哪位诗人？",
+    "answer": "李白",
+    "decoys": [
+      "杜甫",
+      "李贺",
+      "王维"
+    ],
+    "explanation": "诗仙：李白，《将进酒》：天生我材必有用，千金散尽还复来",
+    "flags": [],
+    "confusions": [
+      "杜甫",
+      "李贺",
+      "王维"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K128",
+    "number": 128,
+    "title": "诗圣",
+    "original": "诗圣：杜甫，《茅屋为秋风所破歌》：安得广厦千万间，大庇天下寒士俱欢颜",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗圣",
+      "杜甫"
+    ],
+    "difficulty": 1,
+    "question": "“诗圣”通常指哪位诗人？",
+    "answer": "杜甫",
+    "decoys": [
+      "李白",
+      "李贺",
+      "王维"
+    ],
+    "explanation": "诗圣：杜甫，《茅屋为秋风所破歌》：安得广厦千万间，大庇天下寒士俱欢颜",
+    "flags": [],
+    "confusions": [
+      "李白",
+      "李贺",
+      "王维"
+    ],
+    "firstLevel": 16,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K129",
+    "number": 129,
+    "title": "诗鬼",
+    "original": "诗鬼：李贺，《雁门太守行》：黑云压城城欲摧，甲光向日金鳞开",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗鬼",
+      "李贺"
+    ],
+    "difficulty": 1,
+    "question": "“诗鬼”通常指哪位诗人？",
+    "answer": "李贺",
+    "decoys": [
+      "王维",
+      "孟郊",
+      "贾岛"
+    ],
+    "explanation": "诗鬼：李贺，《雁门太守行》：黑云压城城欲摧，甲光向日金鳞开",
+    "flags": [],
+    "confusions": [
+      "王维",
+      "孟郊",
+      "贾岛"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K130",
+    "number": 130,
+    "title": "诗佛",
+    "original": "诗佛：王维，《九月九日忆山东兄弟》：独在异乡为异客，每逢佳节倍思亲",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗佛",
+      "王维"
+    ],
+    "difficulty": 1,
+    "question": "“诗佛”通常指哪位诗人？",
+    "answer": "王维",
+    "decoys": [
+      "李白",
+      "杜甫",
+      "孟郊"
+    ],
+    "explanation": "诗佛：王维，《九月九日忆山东兄弟》：独在异乡为异客，每逢佳节倍思亲",
+    "flags": [],
+    "confusions": [
+      "李白",
+      "杜甫",
+      "孟郊"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K131",
+    "number": 131,
+    "title": "诗狂",
+    "original": "诗狂：贺知章，《回乡偶书》：少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗狂",
+      "贺知章"
+    ],
+    "difficulty": 1,
+    "question": "《回乡偶书》的作者是？",
+    "answer": "贺知章",
+    "decoys": [
+      "杜甫",
+      "李贺",
+      "王勃"
+    ],
+    "explanation": "诗狂：贺知章，《回乡偶书》：少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来",
+    "flags": [],
+    "confusions": [
+      "杜甫",
+      "李贺",
+      "王勃"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K132",
+    "number": 132,
+    "title": "诗囚",
+    "original": "诗囚：孟郊，《游子吟》：慈母手中线，游子身上衣",
+    "sourcePage": 5,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗囚",
+      "孟郊"
+    ],
+    "difficulty": 1,
+    "question": "《游子吟》的作者是？",
+    "answer": "孟郊",
+    "decoys": [
+      "孟浩然",
+      "李白",
+      "贾岛"
+    ],
+    "explanation": "诗囚：孟郊，《游子吟》：慈母手中线，游子身上衣",
+    "flags": [],
+    "confusions": [
+      "孟浩然",
+      "李白",
+      "贾岛"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K133",
+    "number": 133,
+    "title": "王勃与名篇",
+    "original": "诗杰：王勃，《滕王阁序》：落霞与孤鹜齐飞，秋水共长天一色",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "王勃与名篇",
+      "《滕王阁序》"
+    ],
+    "difficulty": 1,
+    "question": "“落霞与孤鹜齐飞”出自？",
+    "answer": "《滕王阁序》",
+    "decoys": [
+      "《春晓》",
+      "《游子吟》",
+      "《长恨歌》"
+    ],
+    "explanation": "王勃是初唐四杰之一；“落霞与孤鹜齐飞，秋水共长天一色”出自骈文《滕王阁序》，不是诗歌。",
+    "flags": [
+      "体裁辨析"
+    ],
+    "confusions": [
+      "《春晓》",
+      "《游子吟》",
+      "《长恨歌》"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "朗诵活动要给“落霞与孤鹜齐飞”标注出处。应选哪张牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K134",
+    "number": 134,
+    "title": "诗骨",
+    "original": "诗骨：陈子昂，《登幽州台歌》：前不见古人，后不见来者，念天地之悠悠，独怆然而涕下",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗骨",
+      "陈子昂"
+    ],
+    "difficulty": 1,
+    "question": "《登幽州台歌》的作者是？",
+    "answer": "陈子昂",
+    "decoys": [
+      "王勃",
+      "孟郊",
+      "白居易"
+    ],
+    "explanation": "诗骨：陈子昂，《登幽州台歌》：前不见古人，后不见来者，念天地之悠悠，独怆然而涕下",
+    "flags": [],
+    "confusions": [
+      "王勃",
+      "孟郊",
+      "白居易"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K135",
+    "number": 135,
+    "title": "孟浩然",
+    "original": "诗星：孟浩然，《春晓》：夜来风雨声，花落知多少",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "孟浩然",
+      "《春晓》"
+    ],
+    "difficulty": 1,
+    "question": "“夜来风雨声，花落知多少”出自？",
+    "answer": "《春晓》",
+    "decoys": [
+      "《长恨歌》",
+      "《将进酒》",
+      "《游子吟》"
+    ],
+    "explanation": "孟浩然作《春晓》。“诗星”等别称流传口径不一，题目以作者与作品为准。",
+    "flags": [
+      "别称口径"
+    ],
+    "confusions": [
+      "《长恨歌》",
+      "《将进酒》",
+      "《游子吟》"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K136",
+    "number": 136,
+    "title": "诗魔",
+    "original": "诗魔：白居易，《长恨歌》：在天愿作比翼鸟，在地愿为连理枝",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗魔",
+      "白居易"
+    ],
+    "difficulty": 1,
+    "question": "《长恨歌》的作者是？",
+    "answer": "白居易",
+    "decoys": [
+      "李白",
+      "杜甫",
+      "王维"
+    ],
+    "explanation": "诗魔：白居易，《长恨歌》：在天愿作比翼鸟，在地愿为连理枝",
+    "flags": [],
+    "confusions": [
+      "李白",
+      "杜甫",
+      "王维"
+    ],
+    "firstLevel": 17,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K137",
+    "number": 137,
+    "title": "诗豪",
+    "original": "诗豪：刘禹锡，《酬乐天扬州初逢席上见赠》：沉舟侧畔千帆过，病树前头万木春",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗豪",
+      "刘禹锡"
+    ],
+    "difficulty": 1,
+    "question": "“沉舟侧畔千帆过”的作者是？",
+    "answer": "刘禹锡",
+    "decoys": [
+      "孟郊",
+      "陈子昂",
+      "贾岛"
+    ],
+    "explanation": "诗豪：刘禹锡，《酬乐天扬州初逢席上见赠》：沉舟侧畔千帆过，病树前头万木春",
+    "flags": [],
+    "confusions": [
+      "孟郊",
+      "陈子昂",
+      "贾岛"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K138",
+    "number": 138,
+    "title": "诗奴",
+    "original": "诗奴：贾岛，《寻隐者不遇》：只在此山中，云深不知处",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "诗奴",
+      "贾岛"
+    ],
+    "difficulty": 1,
+    "question": "《寻隐者不遇》的作者是？",
+    "answer": "贾岛",
+    "decoys": [
+      "孟浩然",
+      "王勃",
+      "贺知章"
+    ],
+    "explanation": "诗奴：贾岛，《寻隐者不遇》：只在此山中，云深不知处",
+    "flags": [],
+    "confusions": [
+      "孟浩然",
+      "王勃",
+      "贺知章"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K139",
+    "number": 139,
+    "title": "大型类书复习",
+    "original": "《永乐大典》世界有史以来最大的百科全书",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "大型类书复习",
+      "大型类书"
+    ],
+    "difficulty": 1,
+    "question": "《永乐大典》属于哪一类古籍？",
+    "answer": "大型类书",
+    "decoys": [
+      "诗歌总集",
+      "纪传体断代史",
+      "语录体"
+    ],
+    "explanation": "与第21条重复：换角度复习《永乐大典》作为明代大型类书的性质。",
+    "flags": [
+      "重复条目"
+    ],
+    "confusions": [
+      "诗歌总集",
+      "纪传体断代史",
+      "语录体"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": "K021"
+  },
+  {
+    "id": "K140",
+    "number": 140,
+    "title": "完整类书复习",
+    "original": "《古今图书集成》我国现存规模最大、资料最丰富的类书",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "完整类书复习",
+      "《古今图书集成》"
+    ],
+    "difficulty": 1,
+    "question": "哪部类书以现存完整、规模宏大著称？",
+    "answer": "《古今图书集成》",
+    "decoys": [
+      "《论语》",
+      "《汉书》",
+      "《春晓》"
+    ],
+    "explanation": "与第22条重复：复习现存规模宏大的完整类书《古今图书集成》。",
+    "flags": [
+      "重复条目"
+    ],
+    "confusions": [
+      "《论语》",
+      "《汉书》",
+      "《春晓》"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": "K022"
+  },
+  {
+    "id": "K141",
+    "number": 141,
+    "title": "丛书复习",
+    "original": "《四库全书》我国最大的一部丛书",
+    "sourcePage": 6,
+    "chapter": "经典与诗人",
+    "keywords": [
+      "丛书复习",
+      "《四库全书》"
+    ],
+    "difficulty": 1,
+    "question": "哪部古籍是大型丛书？",
+    "answer": "《四库全书》",
+    "decoys": [
+      "《康熙字典》",
+      "《论语》",
+      "《史记》"
+    ],
+    "explanation": "与第20条重复：复习我国古代大型丛书《四库全书》。",
+    "flags": [
+      "重复条目"
+    ],
+    "confusions": [
+      "《康熙字典》",
+      "《论语》",
+      "《史记》"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": "K020"
+  },
+  {
+    "id": "K142",
+    "number": 142,
+    "title": "老舍",
+    "original": "老舍获得“人民艺术家”称号，《龙须沟》《茶馆》《骆驼祥子》《四世同堂》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "老舍",
+      "老舍"
+    ],
+    "difficulty": 1,
+    "question": "《茶馆》《骆驼祥子》的作者是？",
+    "answer": "老舍",
+    "decoys": [
+      "巴金",
+      "茅盾",
+      "刘鹗"
+    ],
+    "explanation": "老舍获得“人民艺术家”称号，《龙须沟》《茶馆》《骆驼祥子》《四世同堂》",
+    "flags": [],
+    "confusions": [
+      "巴金",
+      "茅盾",
+      "刘鹗"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "读书分享介绍《茶馆》和《骆驼祥子》。作家介绍卡应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K143",
+    "number": 143,
+    "title": "巴金",
+    "original": "巴金，激流三部曲《家》《春》《秋》，爱情三部曲《雾》《雨》《电》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "巴金",
+      "《家》《春》《秋》"
+    ],
+    "difficulty": 1,
+    "question": "巴金的“激流三部曲”是？",
+    "answer": "《家》《春》《秋》",
+    "decoys": [
+      "《雾》《雨》《电》",
+      "《幻灭》《动摇》《追求》",
+      "《新婚别》《垂老别》《无家别》"
+    ],
+    "explanation": "巴金，激流三部曲《家》《春》《秋》，爱情三部曲《雾》《雨》《电》",
+    "flags": [],
+    "confusions": [
+      "《雾》《雨》《电》",
+      "《幻灭》《动摇》《追求》",
+      "《新婚别》《垂老别》《无家别》"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《家》",
+      "《春》",
+      "《秋》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《雾》",
+      "《雨》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K144",
+    "number": 144,
+    "title": "茅盾",
+    "original": "茅盾，《林家铺子》《子夜》《蚀》三部曲：《幻灭》《动摇》《追求》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "茅盾",
+      "茅盾"
+    ],
+    "difficulty": 1,
+    "question": "《子夜》的作者是？",
+    "answer": "茅盾",
+    "decoys": [
+      "巴金",
+      "老舍",
+      "曾朴"
+    ],
+    "explanation": "茅盾，《林家铺子》《子夜》《蚀》三部曲：《幻灭》《动摇》《追求》",
+    "flags": [],
+    "confusions": [
+      "巴金",
+      "老舍",
+      "曾朴"
+    ],
+    "firstLevel": 18,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K145",
+    "number": 145,
+    "title": "但丁",
+    "original": "但丁代表作《神曲》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "但丁",
+      "《神曲》"
+    ],
+    "difficulty": 1,
+    "question": "但丁的代表作是？",
+    "answer": "《神曲》",
+    "decoys": [
+      "《十日谈》",
+      "《死魂灵》",
+      "《吝啬鬼》"
+    ],
+    "explanation": "但丁代表作《神曲》",
+    "flags": [],
+    "confusions": [
+      "《十日谈》",
+      "《死魂灵》",
+      "《吝啬鬼》"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K146",
+    "number": 146,
+    "title": "彼得拉克",
+    "original": "彼特拉克被称为“人文主义之父”",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "彼得拉克",
+      "彼得拉克"
+    ],
+    "difficulty": 1,
+    "question": "“人文主义之父”通常指？",
+    "answer": "彼得拉克",
+    "decoys": [
+      "但丁",
+      "薄伽丘",
+      "莎士比亚"
+    ],
+    "explanation": "彼特拉克、彼得拉克为同一人的常见译名；游戏统一写彼得拉克，他常被称为“人文主义之父”。",
+    "flags": [
+      "译名统一"
+    ],
+    "confusions": [
+      "但丁",
+      "薄伽丘",
+      "莎士比亚"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K147",
+    "number": 147,
+    "title": "薄伽丘",
+    "original": "薄伽丘的代表作《十日谈》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "薄伽丘",
+      "薄伽丘"
+    ],
+    "difficulty": 1,
+    "question": "《十日谈》的作者是？",
+    "answer": "薄伽丘",
+    "decoys": [
+      "但丁",
+      "彼得拉克",
+      "莫里哀"
+    ],
+    "explanation": "薄伽丘的代表作《十日谈》",
+    "flags": [],
+    "confusions": [
+      "但丁",
+      "彼得拉克",
+      "莫里哀"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K148",
+    "number": 148,
+    "title": "莎翁四大悲剧",
+    "original": "莎士比亚四大悲剧：《哈姆雷特》（最高成就）《李尔王》《麦克白》《奥赛罗》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "莎翁四大悲剧",
+      "《哈姆雷特》"
+    ],
+    "difficulty": 3,
+    "question": "哪部属于莎士比亚四大悲剧？",
+    "answer": "《哈姆雷特》",
+    "decoys": [
+      "《威尼斯商人》",
+      "《仲夏夜之梦》",
+      "《皆大欢喜》"
+    ],
+    "explanation": "莎士比亚四大悲剧：《哈姆雷特》（最高成就）《李尔王》《麦克白》《奥赛罗》",
+    "flags": [],
+    "confusions": [
+      "《威尼斯商人》",
+      "《仲夏夜之梦》",
+      "《皆大欢喜》"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《哈姆雷特》",
+      "《李尔王》",
+      "《麦克白》",
+      "《奥赛罗》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《威尼斯商人》",
+      "《皆大欢喜》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K149",
+    "number": 149,
+    "title": "莎翁四大喜剧",
+    "original": "莎士比亚四大喜剧：《威尼斯商人》《仲夏夜之梦》《第十二夜》《皆大欢喜》",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "莎翁四大喜剧",
+      "《威尼斯商人》"
+    ],
+    "difficulty": 3,
+    "question": "哪部属于莎士比亚四大喜剧？",
+    "answer": "《威尼斯商人》",
+    "decoys": [
+      "《哈姆雷特》",
+      "《奥赛罗》",
+      "《麦克白》"
+    ],
+    "explanation": "莎士比亚四大喜剧：《威尼斯商人》《仲夏夜之梦》《第十二夜》《皆大欢喜》",
+    "flags": [],
+    "confusions": [
+      "《哈姆雷特》",
+      "《奥赛罗》",
+      "《麦克白》"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "《威尼斯商人》",
+      "《仲夏夜之梦》",
+      "《第十二夜》",
+      "《皆大欢喜》"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "《哈姆雷特》",
+      "《李尔王》"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K150",
+    "number": 150,
+    "title": "短篇小说三巨匠",
+    "original": "短篇小说三巨匠：莫泊桑、契诃夫、欧·亨利",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "短篇小说三巨匠",
+      "契诃夫"
+    ],
+    "difficulty": 1,
+    "question": "谁属于“短篇小说三巨匠”？",
+    "answer": "契诃夫",
+    "decoys": [
+      "但丁",
+      "莫里哀",
+      "巴尔扎克"
+    ],
+    "explanation": "短篇小说三巨匠：莫泊桑、契诃夫、欧·亨利",
+    "flags": [],
+    "confusions": [
+      "但丁",
+      "莫里哀",
+      "巴尔扎克"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "莫泊桑",
+      "契诃夫",
+      "欧·亨利"
+    ],
+    "ordered": false,
+    "partDecoys": [
+      "巴尔扎克",
+      "莫里哀"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K151",
+    "number": 151,
+    "title": "夏洛克",
+    "original": "夏洛克——莎士比亚《威尼斯商人》中的吝啬鬼",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "夏洛克",
+      "夏洛克"
+    ],
+    "difficulty": 1,
+    "question": "《威尼斯商人》中的吝啬鬼形象是？",
+    "answer": "夏洛克",
+    "decoys": [
+      "阿巴贡",
+      "葛朗台",
+      "泼留希金"
+    ],
+    "explanation": "夏洛克——莎士比亚《威尼斯商人》中的吝啬鬼",
+    "flags": [],
+    "confusions": [
+      "阿巴贡",
+      "葛朗台",
+      "泼留希金"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K152",
+    "number": 152,
+    "title": "阿巴贡",
+    "original": "阿巴贡——莫里哀《吝啬鬼》中的吝啬鬼",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "阿巴贡",
+      "阿巴贡"
+    ],
+    "difficulty": 1,
+    "question": "莫里哀《吝啬鬼》中的主人公是？",
+    "answer": "阿巴贡",
+    "decoys": [
+      "夏洛克",
+      "葛朗台",
+      "泼留希金"
+    ],
+    "explanation": "阿巴贡——莫里哀《吝啬鬼》中的吝啬鬼",
+    "flags": [],
+    "confusions": [
+      "夏洛克",
+      "葛朗台",
+      "泼留希金"
+    ],
+    "firstLevel": 19,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K153",
+    "number": 153,
+    "title": "葛朗台",
+    "original": "葛朗台——巴尔扎克《守财奴》中的吝啬鬼",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "葛朗台",
+      "《欧也妮·葛朗台》"
+    ],
+    "difficulty": 1,
+    "question": "葛朗台出自巴尔扎克的哪部小说？",
+    "answer": "《欧也妮·葛朗台》",
+    "decoys": [
+      "《威尼斯商人》",
+      "《吝啬鬼》",
+      "《死魂灵》"
+    ],
+    "explanation": "葛朗台是巴尔扎克《欧也妮·葛朗台》中的人物。《守财奴》是常见教材节选题名，不是另一部长篇小说。",
+    "flags": [
+      "作品与节选"
+    ],
+    "confusions": [
+      "《威尼斯商人》",
+      "《吝啬鬼》",
+      "《死魂灵》"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "文学展板介绍吝啬鬼葛朗台，需要标明小说全名。应贴哪张牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K154",
+    "number": 154,
+    "title": "泼留希金",
+    "original": "泼留希金——果戈里《死魂灵》中的吝啬鬼",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "泼留希金",
+      "泼留希金"
+    ],
+    "difficulty": 1,
+    "question": "《死魂灵》中的吝啬鬼形象是？",
+    "answer": "泼留希金",
+    "decoys": [
+      "夏洛克",
+      "阿巴贡",
+      "葛朗台"
+    ],
+    "explanation": "泼留希金——果戈里《死魂灵》中的吝啬鬼",
+    "flags": [],
+    "confusions": [
+      "夏洛克",
+      "阿巴贡",
+      "葛朗台"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K155",
+    "number": 155,
+    "title": "天干",
+    "original": "天干：甲、乙、丙、丁、戊、己、庚、辛、壬、癸",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "天干",
+      "甲"
+    ],
+    "difficulty": 3,
+    "question": "十天干以哪一项开头？",
+    "answer": "甲",
+    "decoys": [
+      "子",
+      "寅",
+      "卯"
+    ],
+    "explanation": "天干：甲、乙、丙、丁、戊、己、庚、辛、壬、癸",
+    "flags": [],
+    "confusions": [
+      "子",
+      "寅",
+      "卯"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "甲",
+      "乙",
+      "丙",
+      "丁",
+      "戊"
+    ],
+    "ordered": true,
+    "partDecoys": [
+      "子",
+      "丑"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K156",
+    "number": 156,
+    "title": "地支",
+    "original": "地支：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥",
+    "sourcePage": 6,
+    "chapter": "中外文学",
+    "keywords": [
+      "地支",
+      "子"
+    ],
+    "difficulty": 3,
+    "question": "十二地支以哪一项开头？",
+    "answer": "子",
+    "decoys": [
+      "甲",
+      "乙",
+      "丙"
+    ],
+    "explanation": "地支：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥",
+    "flags": [],
+    "confusions": [
+      "甲",
+      "乙",
+      "丙"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords"
+    ],
+    "parts": [
+      "子",
+      "丑",
+      "寅",
+      "卯",
+      "辰"
+    ],
+    "ordered": true,
+    "partDecoys": [
+      "甲",
+      "乙"
+    ],
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K157",
+    "number": 157,
+    "title": "蔡伦与造纸",
+    "original": "造纸术：东汉蔡伦改进造纸术，纸被称为“蔡侯纸”",
+    "sourcePage": 6,
+    "chapter": "古代科技",
+    "keywords": [
+      "蔡伦与造纸",
+      "蔡伦"
+    ],
+    "difficulty": 1,
+    "question": "东汉改进造纸术的是？",
+    "answer": "蔡伦",
+    "decoys": [
+      "毕昇",
+      "沈括",
+      "宋应星"
+    ],
+    "explanation": "造纸术：东汉蔡伦改进造纸术，纸被称为“蔡侯纸”",
+    "flags": [],
+    "confusions": [
+      "毕昇",
+      "沈括",
+      "宋应星"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "纸文化课堂里，要给“东汉改进造纸术”配人物卡。应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K158",
+    "number": 158,
+    "title": "毕昇与印刷",
+    "original": "印刷术：隋唐雕版印刷，北宋毕昇发明活字印刷术。",
+    "sourcePage": 6,
+    "chapter": "古代科技",
+    "keywords": [
+      "毕昇与印刷",
+      "毕昇"
+    ],
+    "difficulty": 1,
+    "question": "北宋发明活字印刷术的是？",
+    "answer": "毕昇",
+    "decoys": [
+      "蔡伦",
+      "徐光启",
+      "李时珍"
+    ],
+    "explanation": "印刷术：隋唐雕版印刷，北宋毕昇发明活字印刷术。",
+    "flags": [],
+    "confusions": [
+      "蔡伦",
+      "徐光启",
+      "李时珍"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K159",
+    "number": 159,
+    "title": "指南针与航海",
+    "original": "指南针：战国时期发现“司南”，北宋时制成指南针应用于航海。",
+    "sourcePage": 6,
+    "chapter": "古代科技",
+    "keywords": [
+      "指南针与航海",
+      "北宋"
+    ],
+    "difficulty": 1,
+    "question": "资料中，指南针用于航海始于？",
+    "answer": "北宋",
+    "decoys": [
+      "东晋",
+      "明朝",
+      "清朝"
+    ],
+    "explanation": "指南针在北宋用于航海。关于早期司南的具体形制、年代有讨论，题目只考北宋航海应用。",
+    "flags": [
+      "史料口径"
+    ],
+    "confusions": [
+      "东晋",
+      "明朝",
+      "清朝"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K160",
+    "number": 160,
+    "title": "火药与炼丹",
+    "original": "火药：源于炼丹术，唐末火药开始用于军事。南宋时发明了管形火器“突火枪”",
+    "sourcePage": 6,
+    "chapter": "古代科技",
+    "keywords": [
+      "火药与炼丹",
+      "古代炼丹"
+    ],
+    "difficulty": 1,
+    "question": "火药的发明与什么活动有关？",
+    "answer": "古代炼丹",
+    "decoys": [
+      "活字排版",
+      "改进造纸",
+      "纺织刺绣"
+    ],
+    "explanation": "火药：源于炼丹术，唐末火药开始用于军事。南宋时发明了管形火器“突火枪”",
+    "flags": [],
+    "confusions": [
+      "活字排版",
+      "改进造纸",
+      "纺织刺绣"
+    ],
+    "firstLevel": 20,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": null,
+    "duplicateOf": null
+  },
+  {
+    "id": "K161",
+    "number": 161,
+    "title": "《难经》",
+    "original": "《难经》战国时期扁鹊所著",
+    "sourcePage": 6,
+    "chapter": "古代科技",
+    "keywords": [
+      "《难经》",
+      "扁鹊"
+    ],
+    "difficulty": 1,
+    "question": "《难经》传统上被托名于哪位医家？",
+    "answer": "扁鹊",
+    "decoys": [
+      "李时珍",
+      "孙思邈",
+      "张仲景"
+    ],
+    "explanation": "《难经》传统上题为扁鹊（秦越人）所作，通常认为存在后人托名；作者与成书年代有讨论，题干明确“传统上托名”。",
+    "flags": [
+      "作者存疑"
+    ],
+    "confusions": [
+      "李时珍",
+      "孙思邈",
+      "张仲景"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "古籍展板介绍《难经》的传统托名。哪个名字可以放在“相传作者”栏？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K162",
+    "number": 162,
+    "title": "《伤寒杂病论》",
+    "original": "《伤寒杂病论》东汉张仲景（医圣）所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《伤寒杂病论》",
+      "张仲景"
+    ],
+    "difficulty": 1,
+    "question": "《伤寒杂病论》的作者是？",
+    "answer": "张仲景",
+    "decoys": [
+      "孙思邈",
+      "扁鹊",
+      "李时珍"
+    ],
+    "explanation": "《伤寒杂病论》东汉张仲景（医圣）所著",
+    "flags": [],
+    "confusions": [
+      "孙思邈",
+      "扁鹊",
+      "李时珍"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "学生整理医药古籍，把《伤寒杂病论》与作者配对。应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K163",
+    "number": 163,
+    "title": "《千金要方》",
+    "original": "《千金要方》唐朝孙思邈（药王）所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《千金要方》",
+      "孙思邈"
+    ],
+    "difficulty": 1,
+    "question": "《千金要方》的作者是？",
+    "answer": "孙思邈",
+    "decoys": [
+      "张仲景",
+      "李时珍",
+      "沈括"
+    ],
+    "explanation": "《千金要方》唐朝孙思邈（药王）所著",
+    "flags": [],
+    "confusions": [
+      "张仲景",
+      "李时珍",
+      "沈括"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "《千金要方》的书签漏写作者，哪张人物牌可以补上？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K164",
+    "number": 164,
+    "title": "《本草纲目》",
+    "original": "《本草纲目》明朝李时珍所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《本草纲目》",
+      "李时珍"
+    ],
+    "difficulty": 1,
+    "question": "《本草纲目》的作者是？",
+    "answer": "李时珍",
+    "decoys": [
+      "沈括",
+      "孙思邈",
+      "陆羽"
+    ],
+    "explanation": "《本草纲目》明朝李时珍所著",
+    "flags": [],
+    "confusions": [
+      "沈括",
+      "孙思邈",
+      "陆羽"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "班级制作《本草纲目》阅读卡，作者一栏应填谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K165",
+    "number": 165,
+    "title": "《茶经》",
+    "original": "《茶经》唐朝陆羽所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《茶经》",
+      "陆羽"
+    ],
+    "difficulty": 1,
+    "question": "《茶经》的作者是？",
+    "answer": "陆羽",
+    "decoys": [
+      "贾思勰",
+      "徐光启",
+      "宋应星"
+    ],
+    "explanation": "《茶经》唐朝陆羽所著",
+    "flags": [],
+    "confusions": [
+      "贾思勰",
+      "徐光启",
+      "宋应星"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "茶文化活动为《茶经》准备作者卡。应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K166",
+    "number": 166,
+    "title": "《齐民要术》",
+    "original": "《齐民要术》北魏贾思勰所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《齐民要术》",
+      "贾思勰"
+    ],
+    "difficulty": 1,
+    "question": "《齐民要术》的作者是？",
+    "answer": "贾思勰",
+    "decoys": [
+      "徐光启",
+      "宋应星",
+      "陆羽"
+    ],
+    "explanation": "《齐民要术》北魏贾思勰所著",
+    "flags": [],
+    "confusions": [
+      "徐光启",
+      "宋应星",
+      "陆羽"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "农事主题阅读中，《齐民要术》的作者卡是哪张？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K167",
+    "number": 167,
+    "title": "《梦溪笔谈》",
+    "original": "《梦溪笔谈》北宋沈括所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《梦溪笔谈》",
+      "沈括"
+    ],
+    "difficulty": 1,
+    "question": "《梦溪笔谈》的作者是？",
+    "answer": "沈括",
+    "decoys": [
+      "许慎",
+      "贾思勰",
+      "徐光启"
+    ],
+    "explanation": "《梦溪笔谈》北宋沈括所著",
+    "flags": [],
+    "confusions": [
+      "许慎",
+      "贾思勰",
+      "徐光启"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "科技古籍展要介绍《梦溪笔谈》，应搭配谁的人物牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K168",
+    "number": 168,
+    "title": "《农政全书》",
+    "original": "《农政全书》明朝徐光启所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《农政全书》",
+      "徐光启"
+    ],
+    "difficulty": 1,
+    "question": "《农政全书》的作者是？",
+    "answer": "徐光启",
+    "decoys": [
+      "宋应星",
+      "沈括",
+      "李时珍"
+    ],
+    "explanation": "《农政全书》明朝徐光启所著",
+    "flags": [],
+    "confusions": [
+      "宋应星",
+      "沈括",
+      "李时珍"
+    ],
+    "firstLevel": 21,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "农业小讲堂介绍《农政全书》，应选择哪位作者？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K169",
+    "number": 169,
+    "title": "《天工开物》作者",
+    "original": "《天工开物》明朝宋应星所著",
+    "sourcePage": 7,
+    "chapter": "古代科技",
+    "keywords": [
+      "《天工开物》作者",
+      "宋应星"
+    ],
+    "difficulty": 1,
+    "question": "《天工开物》的作者是？",
+    "answer": "宋应星",
+    "decoys": [
+      "徐光启",
+      "沈括",
+      "贾思勰"
+    ],
+    "explanation": "《天工开物》明朝宋应星所著",
+    "flags": [],
+    "confusions": [
+      "徐光启",
+      "沈括",
+      "贾思勰"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "古代科技展把《天工开物》放入展柜。署名应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K170",
+    "number": 170,
+    "title": "东方红一号",
+    "original": "东方红一号：中国第一颗人造地球卫星",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "东方红一号",
+      "东方红一号"
+    ],
+    "difficulty": 1,
+    "question": "我国第一颗人造地球卫星是？",
+    "answer": "东方红一号",
+    "decoys": [
+      "嫦娥一号",
+      "天宫一号",
+      "神舟五号"
+    ],
+    "explanation": "东方红一号：中国第一颗人造地球卫星",
+    "flags": [],
+    "confusions": [
+      "嫦娥一号",
+      "天宫一号",
+      "神舟五号"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "航天课布置“中国第一颗人造地球卫星”展板，应选哪张任务牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K171",
+    "number": 171,
+    "title": "神舟五号",
+    "original": "神舟五号：首次载人航天飞行",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "神舟五号",
+      "神舟五号"
+    ],
+    "difficulty": 1,
+    "question": "我国首次载人航天飞行是哪次任务？",
+    "answer": "神舟五号",
+    "decoys": [
+      "神舟七号",
+      "神舟九号",
+      "嫦娥一号"
+    ],
+    "explanation": "神舟五号：首次载人航天飞行",
+    "flags": [],
+    "confusions": [
+      "神舟七号",
+      "神舟九号",
+      "嫦娥一号"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "航天课堂讲我国首次载人飞行，应播放哪次任务的介绍？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K172",
+    "number": 172,
+    "title": "神舟七号",
+    "original": "神舟七号：首次出舱作业",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "神舟七号",
+      "神舟七号"
+    ],
+    "difficulty": 1,
+    "question": "我国首次航天员出舱活动是哪次任务？",
+    "answer": "神舟七号",
+    "decoys": [
+      "神舟五号",
+      "神舟九号",
+      "东方红一号"
+    ],
+    "explanation": "神舟七号：首次出舱作业",
+    "flags": [],
+    "confusions": [
+      "神舟五号",
+      "神舟九号",
+      "东方红一号"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "学生问我国哪次任务首次实现航天员出舱，老师应选哪张牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K173",
+    "number": 173,
+    "title": "嫦娥一号",
+    "original": "嫦娥一号：中国第一颗自主研制月球探测卫星",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "嫦娥一号",
+      "嫦娥一号"
+    ],
+    "difficulty": 1,
+    "question": "我国首颗自主研制月球探测卫星是？",
+    "answer": "嫦娥一号",
+    "decoys": [
+      "东方红一号",
+      "神舟七号",
+      "天宫一号"
+    ],
+    "explanation": "嫦娥一号：中国第一颗自主研制月球探测卫星",
+    "flags": [],
+    "confusions": [
+      "东方红一号",
+      "神舟七号",
+      "天宫一号"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "月球主题班会上，要展示我国第一颗探月卫星。应选哪张牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K174",
+    "number": 174,
+    "title": "天宫一号",
+    "original": "天宫一号：中国第一个目标飞行器和空间实验室",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "天宫一号",
+      "天宫一号"
+    ],
+    "difficulty": 1,
+    "question": "我国首个用于交会对接的目标飞行器是？",
+    "answer": "天宫一号",
+    "decoys": [
+      "东方红一号",
+      "嫦娥一号",
+      "神舟五号"
+    ],
+    "explanation": "天宫一号是我国首个目标飞行器，主要用于交会对接试验并开展空间实验；天宫二号为空间实验室。避免混为同一正式任务称谓。",
+    "flags": [
+      "称谓区分"
+    ],
+    "confusions": [
+      "东方红一号",
+      "嫦娥一号",
+      "神舟五号"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "学生把目标飞行器与探月卫星混淆了。我国首个目标飞行器是哪张？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K175",
+    "number": 175,
+    "title": "神舟九号",
+    "original": "神舟九号：首次载人交会对接",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "神舟九号",
+      "神舟九号"
+    ],
+    "difficulty": 1,
+    "question": "我国首次载人交会对接是哪次任务？",
+    "answer": "神舟九号",
+    "decoys": [
+      "神舟五号",
+      "神舟七号",
+      "嫦娥一号"
+    ],
+    "explanation": "神舟九号：首次载人交会对接",
+    "flags": [],
+    "confusions": [
+      "神舟五号",
+      "神舟七号",
+      "嫦娥一号"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "“首次载人交会对接”展板上，应该贴哪张任务牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K176",
+    "number": 176,
+    "title": "莱特兄弟",
+    "original": "莱特兄弟发明飞机。",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "莱特兄弟",
+      "莱特兄弟"
+    ],
+    "difficulty": 1,
+    "question": "与早期动力飞机发明相关的是？",
+    "answer": "莱特兄弟",
+    "decoys": [
+      "贝尔",
+      "毕昇",
+      "蔡伦"
+    ],
+    "explanation": "莱特兄弟发明飞机。",
+    "flags": [],
+    "confusions": [
+      "贝尔",
+      "毕昇",
+      "蔡伦"
+    ],
+    "firstLevel": 22,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "交通工具展览需要给早期动力飞机配发明者介绍，应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K177",
+    "number": 177,
+    "title": "贝尔",
+    "original": "贝尔发明电话",
+    "sourcePage": 7,
+    "chapter": "飞向太空",
+    "keywords": [
+      "贝尔",
+      "贝尔"
+    ],
+    "difficulty": 1,
+    "question": "通常与电话发明联系在一起的是？",
+    "answer": "贝尔",
+    "decoys": [
+      "莱特兄弟",
+      "蔡伦",
+      "沈括"
+    ],
+    "explanation": "贝尔发明电话",
+    "flags": [],
+    "confusions": [
+      "莱特兄弟",
+      "蔡伦",
+      "沈括"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "电话历史课堂中，通常与电话发明联系在一起的人物是？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K178",
+    "number": 178,
+    "title": "贝多芬",
+    "original": "贝多芬被称为“乐圣”双耳失聪仍坚持创作，第三交响曲《英雄交响曲》，第五交响曲《命运交响曲》，第六交响曲《田园交响曲》，第九交响曲《合唱交响曲》也就是《欢乐颂》，《致爱丽丝》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "贝多芬",
+      "《命运交响曲》"
+    ],
+    "difficulty": 2,
+    "question": "贝多芬第五交响曲常称为？",
+    "answer": "《命运交响曲》",
+    "decoys": [
+      "《田园交响曲》",
+      "《英雄交响曲》",
+      "《合唱交响曲》"
+    ],
+    "explanation": "贝多芬第三、第五、第六、第九交响曲常称英雄、命运、田园、合唱。《欢乐颂》为第九交响曲末乐章的重要部分，不能等同整部交响曲。",
+    "flags": [
+      "作品结构"
+    ],
+    "confusions": [
+      "《田园交响曲》",
+      "《英雄交响曲》",
+      "《合唱交响曲》"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "音乐老师要播放贝多芬第五交响曲，节目单应写哪个常见名称？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K179",
+    "number": 179,
+    "title": "海顿",
+    "original": "海顿被称为“交响乐之父”，现德国国歌作者，《惊愕交响曲》《小夜曲》《告别交响曲》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "海顿",
+      "海顿"
+    ],
+    "difficulty": 1,
+    "question": "“交响乐之父”通常指？",
+    "answer": "海顿",
+    "decoys": [
+      "巴赫",
+      "肖邦",
+      "莫扎特"
+    ],
+    "explanation": "海顿常被称为交响乐之父。德国国歌的旋律源自海顿作品，不能将国歌歌词也归给他。题目避免用笼统《小夜曲》辨别唯一作者。",
+    "flags": [
+      "表述细化"
+    ],
+    "confusions": [
+      "巴赫",
+      "肖邦",
+      "莫扎特"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "音乐家卡片上写着“交响乐之父”，应配哪位作曲家？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K180",
+    "number": 180,
+    "title": "巴赫",
+    "original": "巴赫被称为“西方近代音乐之父”，成名作《创意曲》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "巴赫",
+      "巴赫"
+    ],
+    "difficulty": 1,
+    "question": "“西方近代音乐之父”通常指？",
+    "answer": "巴赫",
+    "decoys": [
+      "肖邦",
+      "海顿",
+      "柴可夫斯基"
+    ],
+    "explanation": "巴赫常被称为“西方近代音乐之父”。《创意曲》是其作品类型之一，不把“成名作”作为唯一判断标准。",
+    "flags": [
+      "范围限定"
+    ],
+    "confusions": [
+      "肖邦",
+      "海顿",
+      "柴可夫斯基"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "音乐角要为“西方近代音乐之父”配人物卡，应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K181",
+    "number": 181,
+    "title": "莫扎特",
+    "original": "莫扎特被称为“音乐神童”，《奏鸣曲》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "莫扎特",
+      "莫扎特"
+    ],
+    "difficulty": 1,
+    "question": "常被称为“音乐神童”的作曲家是？",
+    "answer": "莫扎特",
+    "decoys": [
+      "肖邦",
+      "海顿",
+      "巴赫"
+    ],
+    "explanation": "莫扎特常被称为“音乐神童”。《奏鸣曲》是体裁或不完整题名，不能仅凭它唯一判断作曲者。",
+    "flags": [
+      "题名模糊"
+    ],
+    "confusions": [
+      "肖邦",
+      "海顿",
+      "巴赫"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "音乐故事会讲“音乐神童”，在这组作曲家里应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K182",
+    "number": 182,
+    "title": "肖邦",
+    "original": "肖邦被称为“钢琴诗人”，《一分钟圆舞曲》《革命》《夜曲》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "肖邦",
+      "肖邦"
+    ],
+    "difficulty": 1,
+    "question": "“钢琴诗人”通常指？",
+    "answer": "肖邦",
+    "decoys": [
+      "莫扎特",
+      "海顿",
+      "贝多芬"
+    ],
+    "explanation": "肖邦被称为“钢琴诗人”，《一分钟圆舞曲》《革命》《夜曲》",
+    "flags": [],
+    "confusions": [
+      "莫扎特",
+      "海顿",
+      "贝多芬"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "钢琴主题展中，“钢琴诗人”的人物卡应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K183",
+    "number": 183,
+    "title": "柴可夫斯基",
+    "original": "柴可夫斯基代表作《天鹅湖》《睡美人》《胡桃夹子》《罗密欧与朱丽叶》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "柴可夫斯基",
+      "柴可夫斯基"
+    ],
+    "difficulty": 1,
+    "question": "《天鹅湖》《胡桃夹子》的作曲家是？",
+    "answer": "柴可夫斯基",
+    "decoys": [
+      "巴赫",
+      "肖邦",
+      "海顿"
+    ],
+    "explanation": "柴可夫斯基代表作《天鹅湖》《睡美人》《胡桃夹子》《罗密欧与朱丽叶》",
+    "flags": [],
+    "confusions": [
+      "巴赫",
+      "肖邦",
+      "海顿"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "舞剧欣赏课准备播放《天鹅湖》，作曲家栏应写谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K184",
+    "number": 184,
+    "title": "唐明皇与杨贵妃",
+    "original": "唐明皇杨贵妃故事--诗歌：白居易《长恨歌》；戏剧：白朴《唐明皇秋夜梧桐雨》；戏曲：洪昇《长生殿》；京剧：梅兰芳《贵妃醉酒》",
+    "sourcePage": 7,
+    "chapter": "音乐与戏剧",
+    "keywords": [
+      "唐明皇与杨贵妃",
+      "洪昇"
+    ],
+    "difficulty": 1,
+    "question": "以唐明皇、杨贵妃故事为题材的《长生殿》作者是？",
+    "answer": "洪昇",
+    "decoys": [
+      "白朴",
+      "白居易",
+      "梅兰芳"
+    ],
+    "explanation": "唐明皇杨贵妃故事，诗歌：白居易《长恨歌》；戏剧：白朴《唐明皇秋夜梧桐雨》；戏曲：洪昇《长生殿》；京剧：梅兰芳《贵妃醉酒》",
+    "flags": [],
+    "confusions": [
+      "白朴",
+      "白居易",
+      "梅兰芳"
+    ],
+    "firstLevel": 23,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "《长生殿》阅读卡缺少作者，应该补上哪张人物牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K185",
+    "number": 185,
+    "title": "甲骨文",
+    "original": "商朝：甲骨文已经成为比较成熟的文字",
+    "sourcePage": 7,
+    "chapter": "汉字与书法",
+    "keywords": [
+      "甲骨文",
+      "商朝"
+    ],
+    "difficulty": 1,
+    "question": "哪一朝代的甲骨文已较成熟？",
+    "answer": "商朝",
+    "decoys": [
+      "唐朝",
+      "宋朝",
+      "明朝"
+    ],
+    "explanation": "商朝：甲骨文已经成为比较成熟的文字",
+    "flags": [],
+    "confusions": [
+      "唐朝",
+      "宋朝",
+      "明朝"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "汉字主题课展示商代成熟文字，应选哪个朝代标签？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K186",
+    "number": 186,
+    "title": "秦朝文字",
+    "original": "秦朝：标准字体是小篆，民间流行更简化的隶书",
+    "sourcePage": 7,
+    "chapter": "汉字与书法",
+    "keywords": [
+      "秦朝文字",
+      "小篆"
+    ],
+    "difficulty": 1,
+    "question": "秦统一文字所采用的规范字体是？",
+    "answer": "小篆",
+    "decoys": [
+      "瘦金体",
+      "楷书",
+      "行书"
+    ],
+    "explanation": "秦统一后以小篆为规范文字，隶书也在发展使用。原文“隶书”的“隶”字印作“求”形，学习牌按隶书处理。",
+    "flags": [
+      "原文疑字"
+    ],
+    "confusions": [
+      "瘦金体",
+      "楷书",
+      "行书"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "学生给秦统一文字的展板配字体名，哪张牌准确？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K187",
+    "number": 187,
+    "title": "王羲之",
+    "original": "东晋：“书圣”王羲之，代表作《兰亭序》",
+    "sourcePage": 7,
+    "chapter": "汉字与书法",
+    "keywords": [
+      "王羲之",
+      "王羲之"
+    ],
+    "difficulty": 1,
+    "question": "被称为“书圣”的是？",
+    "answer": "王羲之",
+    "decoys": [
+      "颜真卿",
+      "柳公权",
+      "赵佶"
+    ],
+    "explanation": "东晋：“书圣”王羲之，代表作《兰亭序》",
+    "flags": [],
+    "confusions": [
+      "颜真卿",
+      "柳公权",
+      "赵佶"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "《兰亭序》展板需要一张“书圣”人物卡，应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K188",
+    "number": 188,
+    "title": "颜筋柳骨",
+    "original": "唐朝：颜筋柳骨--颜真卿，柳公权",
+    "sourcePage": 7,
+    "chapter": "汉字与书法",
+    "keywords": [
+      "颜筋柳骨",
+      "颜真卿"
+    ],
+    "difficulty": 1,
+    "question": "“颜筋柳骨”中的“颜”是？",
+    "answer": "颜真卿",
+    "decoys": [
+      "柳公权",
+      "王羲之",
+      "赵孟頫"
+    ],
+    "explanation": "唐朝：颜筋柳骨，颜真卿，柳公权",
+    "flags": [],
+    "confusions": [
+      "柳公权",
+      "王羲之",
+      "赵孟頫"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "书法课讲“颜筋柳骨”，其中“颜”应与谁配对？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K189",
+    "number": 189,
+    "title": "瘦金体",
+    "original": "宋朝：宋徽宗赵佶以“瘦金体”著称",
+    "sourcePage": 8,
+    "chapter": "汉字与书法",
+    "keywords": [
+      "瘦金体",
+      "宋徽宗赵佶"
+    ],
+    "difficulty": 1,
+    "question": "以“瘦金体”著称的是？",
+    "answer": "宋徽宗赵佶",
+    "decoys": [
+      "王羲之",
+      "颜真卿",
+      "柳公权"
+    ],
+    "explanation": "宋朝：宋徽宗赵佶以“瘦金体”著称",
+    "flags": [],
+    "confusions": [
+      "王羲之",
+      "颜真卿",
+      "柳公权"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "书法展设置“瘦金体”专栏，应该介绍谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K190",
+    "number": 190,
+    "title": "元代楷书名家",
+    "original": "元朝：赵孟頫与唐朝欧阳询、颜真卿、柳公权并称为“楷书四大家”。（柳颜赵欧）",
+    "sourcePage": 8,
+    "chapter": "汉字与书法",
+    "keywords": [
+      "元代楷书名家",
+      "赵孟頫"
+    ],
+    "difficulty": 1,
+    "question": "楷书四大家中，元代书法家是？",
+    "answer": "赵孟頫",
+    "decoys": [
+      "颜真卿",
+      "欧阳询",
+      "柳公权"
+    ],
+    "explanation": "与第36条交叉：楷书四大家为欧阳询、颜真卿、柳公权、赵孟頫，其中赵孟頫是元代人。",
+    "flags": [
+      "内容交叉"
+    ],
+    "confusions": [
+      "颜真卿",
+      "欧阳询",
+      "柳公权"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "老师请加号找出楷书四大家中的元代书法家。应选谁？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K191",
+    "number": 191,
+    "title": "行星距离",
+    "original": "距离太阳近到远：水、金、地、火、木、土、天王、海王",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "行星距离",
+      "水星"
+    ],
+    "difficulty": 3,
+    "question": "八大行星中，距离太阳最近的是？",
+    "answer": "水星",
+    "decoys": [
+      "金星",
+      "地球",
+      "火星"
+    ],
+    "explanation": "距离太阳近到远：水、金、地、火、木、土、天王、海王",
+    "flags": [],
+    "confusions": [
+      "金星",
+      "地球",
+      "火星"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords",
+      "scenario"
+    ],
+    "parts": [
+      "水星",
+      "金星",
+      "地球",
+      "火星"
+    ],
+    "ordered": true,
+    "partDecoys": [
+      "木星",
+      "土星"
+    ],
+    "scenario": "做太阳系模型时，距离太阳最近的位置应放哪颗行星？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K192",
+    "number": 192,
+    "title": "行星体积",
+    "original": "体积：木星>土星>天王星>海王星>地球>金星>火星>水星",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "行星体积",
+      "木星"
+    ],
+    "difficulty": 3,
+    "question": "八大行星中，体积最大的是？",
+    "answer": "木星",
+    "decoys": [
+      "土星",
+      "天王星",
+      "海王星"
+    ],
+    "explanation": "体积：木星>土星>天王星>海王星>地球>金星>火星>水星",
+    "flags": [],
+    "confusions": [
+      "土星",
+      "天王星",
+      "海王星"
+    ],
+    "firstLevel": 24,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "keywords",
+      "scenario"
+    ],
+    "parts": [
+      "木星",
+      "土星",
+      "天王星",
+      "海王星"
+    ],
+    "ordered": true,
+    "partDecoys": [
+      "地球",
+      "金星"
+    ],
+    "scenario": "制作按体积缩放的行星模型，最大的球应标哪颗行星？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K193",
+    "number": 193,
+    "title": "岁星",
+    "original": "木星的古称是岁星",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "岁星",
+      "木星"
+    ],
+    "difficulty": 1,
+    "question": "“岁星”是哪颗行星的古称？",
+    "answer": "木星",
+    "decoys": [
+      "水星",
+      "火星",
+      "土星"
+    ],
+    "explanation": "木星的古称是岁星",
+    "flags": [],
+    "confusions": [
+      "水星",
+      "火星",
+      "土星"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "古文阅读出现“岁星”，天文注释应写哪颗行星？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K194",
+    "number": 194,
+    "title": "辰星",
+    "original": "水星的古称是辰星",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "辰星",
+      "水星"
+    ],
+    "difficulty": 1,
+    "question": "“辰星”是哪颗行星的古称？",
+    "answer": "水星",
+    "decoys": [
+      "木星",
+      "火星",
+      "土星"
+    ],
+    "explanation": "水星的古称是辰星",
+    "flags": [],
+    "confusions": [
+      "木星",
+      "火星",
+      "土星"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "古文注释要解释“辰星”，应配哪颗行星？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K195",
+    "number": 195,
+    "title": "荧惑星",
+    "original": "火星的古称是荧惑星",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "荧惑星",
+      "火星"
+    ],
+    "difficulty": 1,
+    "question": "“荧惑星”是哪颗行星的古称？",
+    "answer": "火星",
+    "decoys": [
+      "木星",
+      "水星",
+      "土星"
+    ],
+    "explanation": "火星的古称是荧惑星",
+    "flags": [],
+    "confusions": [
+      "木星",
+      "水星",
+      "土星"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "“荧惑”出现在星象材料中，课堂知识卡应解释为哪颗行星？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K196",
+    "number": 196,
+    "title": "镇星、填星",
+    "original": "土星的古称是镇星或填星",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "镇星、填星",
+      "土星"
+    ],
+    "difficulty": 1,
+    "question": "“镇星”或“填星”是哪颗行星的古称？",
+    "answer": "土星",
+    "decoys": [
+      "火星",
+      "水星",
+      "木星"
+    ],
+    "explanation": "土星的古称是镇星或填星",
+    "flags": [],
+    "confusions": [
+      "火星",
+      "水星",
+      "木星"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 26,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "星空展给“镇星”补充现代名称，应该选哪张牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K197",
+    "number": 197,
+    "title": "美国卫星导航",
+    "original": "美国卫星定位系统：GPS",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "美国卫星导航",
+      "GPS"
+    ],
+    "difficulty": 1,
+    "question": "美国的全球卫星导航系统简称是？",
+    "answer": "GPS",
+    "decoys": [
+      "北斗",
+      "格洛纳斯",
+      "伽利略"
+    ],
+    "explanation": "美国卫星定位系统：GPS",
+    "flags": [],
+    "confusions": [
+      "北斗",
+      "格洛纳斯",
+      "伽利略"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 27,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "卫星导航课堂中，美国系统的简称卡是哪张？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K198",
+    "number": 198,
+    "title": "俄罗斯卫星导航",
+    "original": "俄罗斯卫星定位系统：格罗纳斯",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "俄罗斯卫星导航",
+      "格洛纳斯"
+    ],
+    "difficulty": 1,
+    "question": "俄罗斯的全球卫星导航系统是？",
+    "answer": "格洛纳斯",
+    "decoys": [
+      "GPS",
+      "北斗",
+      "伽利略"
+    ],
+    "explanation": "俄罗斯卫星导航系统 GLONASS 常译“格洛纳斯”，原文“格罗纳斯”为译名差异，游戏统一为格洛纳斯。",
+    "flags": [
+      "译名统一"
+    ],
+    "confusions": [
+      "GPS",
+      "北斗",
+      "伽利略"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 28,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "世界导航系统展上，俄罗斯系统应配哪张名称牌？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K199",
+    "number": 199,
+    "title": "中国卫星导航",
+    "original": "中国卫星定位系统：北斗",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "中国卫星导航",
+      "北斗"
+    ],
+    "difficulty": 1,
+    "question": "中国自主建设的全球卫星导航系统是？",
+    "answer": "北斗",
+    "decoys": [
+      "GPS",
+      "格洛纳斯",
+      "伽利略"
+    ],
+    "explanation": "中国卫星定位系统：北斗",
+    "flags": [],
+    "confusions": [
+      "GPS",
+      "格洛纳斯",
+      "伽利略"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 29,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "科技班会介绍中国自主建设的卫星导航系统，应选择？",
+    "duplicateOf": null
+  },
+  {
+    "id": "K200",
+    "number": 200,
+    "title": "欧盟卫星导航",
+    "original": "欧盟卫星定位系统：伽利略",
+    "sourcePage": 8,
+    "chapter": "星空与导航",
+    "keywords": [
+      "欧盟卫星导航",
+      "伽利略"
+    ],
+    "difficulty": 1,
+    "question": "欧盟建设的全球卫星导航系统是？",
+    "answer": "伽利略",
+    "decoys": [
+      "GPS",
+      "格洛纳斯",
+      "北斗"
+    ],
+    "explanation": "欧盟卫星定位系统：伽利略",
+    "flags": [],
+    "confusions": [
+      "GPS",
+      "格洛纳斯",
+      "北斗"
+    ],
+    "firstLevel": 25,
+    "reviewPoolLevel": 30,
+    "reviewPlanDays": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "initialMastery": "new",
+    "modes": [
+      "choice",
+      "truth",
+      "matching",
+      "scenario"
+    ],
+    "parts": null,
+    "ordered": false,
+    "partDecoys": null,
+    "scenario": "世界导航系统展要介绍欧盟系统，应选择哪张名称牌？",
+    "duplicateOf": null
+  }
+]
